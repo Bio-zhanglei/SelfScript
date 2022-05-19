@@ -1,3 +1,6 @@
+#你需要安装pandas
+#此脚本用于对数据分组和执行数学计算，如总和、平均值、最小/最大值、中值、标准差等。
+#输入'python groupby_mathCalculate.py -h'查看使用说明
 def main(argv):
 	#get command
 	try:

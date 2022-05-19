@@ -1,3 +1,7 @@
+#你需要安装pandas
+#此脚本用于计算频次
+#你可以如下执行查看一个示例的结果(更多帮助输入'python valueCount.py -h')
+#python valueCount.py -i sample1.xls -c Gene
 def main(argv):
 	#get command
 	try:

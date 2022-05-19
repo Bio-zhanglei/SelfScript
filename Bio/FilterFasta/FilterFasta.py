@@ -29,5 +29,5 @@ raw_fasta_group = list_of_groups(raw_fasta,number)
 filter_fasta = sum([i for i in raw_fasta_group if len(i[1]) >= length],[])
 
 #导出数据
-with open('500_%s'%file,'w') as f1:
-  f1.write('\n'.join(result_fasta))
+with open('Filter_{0}'.format(file),'w') as f1:
+  f1.write('\n'.join(filter_fasta))

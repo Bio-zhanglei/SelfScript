@@ -1,3 +1,7 @@
+#你需要安装pandas
+#此脚本用于从目标表中查找所需的列，该表类似于Excel中的“VLookUp”。
+#你可以输入执行如下查看一个实例的结果(更多说明输入'python vlookup.py -h')
+#python vlookup.py -r rawFile.xls -t targetFile.csv -c Entry
 def main(argv):
 	#get command
 	try:

@@ -56,3 +56,4 @@ blastn -query <查找的序列> \
 	   
 #更多使用方法见
 makeblastdb -help
+blastn -help

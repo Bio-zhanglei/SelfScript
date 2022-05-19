@@ -1,3 +1,7 @@
+#你需要安装pandas
+#此脚本用于将宽表(pivot)转换为长表(melt),数据透视。
+#你可以输入执行如下查看一个实例的结果(更多说明输入'python melt.py -h')
+#python melt.py -i sample_melt.txt -c Id,parity,group -v day1,day2
 def main(argv):
 	#get command
 	try:

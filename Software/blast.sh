@@ -33,7 +33,7 @@ makeblastdb -in <数据库> \
 	p	n	p	tblastn
 	n	n	p	tblastx
 	
-#第三步,运行blast
+#第三步,运行blast,这里我需要n → n → n,所以选择blastn
 blastn -query <查找的序列> \
        -db <数据库> \
        -out <结果文件> \

@@ -1,3 +1,7 @@
+#你需要安装pandas
+#此脚本用于将长表(melt)转换为宽表(pivot),数据透视。
+#你可以输入执行如下查看一个实例的结果(更多说明输入'python pivot.py -h')
+#python pivot.py -i sample_pivot.csv -c Age,Sex -r Dose -v Weight,Height -o result_sample_pivot.csv
 def main(argv):
 	#get command
 	try:
@@ -31,7 +35,7 @@ You need to use the command like:
 	Among these:
 		-i is needed   (inputFile,such as one of sample_pivot.csv)
 		-c is needed   (colnames, such as '-c Age,Sex' or '-c Age')
-		-r is needed   (rownames, such as '-c Dose' or '-c Sex,Dose')
+		-r is needed   (rownames, such as '-r Dose' or '-r Sex,Dose')
 		-v is needed   (value, the value columns you want to pivot, such as '-v Weight' or '-v Weight,Height')
 		-o is optional (outFileName, but it must be end with '.txt/.xls' or '.csv', default is result_inputFile, such as result_sample_pivot.csv)
         Warning!!!

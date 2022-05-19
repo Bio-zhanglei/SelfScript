@@ -1,3 +1,5 @@
+#你需要安装pandas
+#此脚本用于删除某一列的重复项。
 def main(argv):
 	#get command
 	try:

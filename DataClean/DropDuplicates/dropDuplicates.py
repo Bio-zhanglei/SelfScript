@@ -1,5 +1,7 @@
 #你需要安装pandas
 #此脚本用于删除某一列的重复项。
+#你可以如下执行查看一个示例的结果(更多帮助输入'python dropDuplicates.py -h')
+#python dropDuplicates.py -i sample1.xls -c Gene -o result.txt
 def main(argv):
 	#get command
 	try:

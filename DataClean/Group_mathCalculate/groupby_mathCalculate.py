@@ -1,6 +1,7 @@
 #你需要安装pandas
 #此脚本用于对数据分组和执行数学计算，如总和、平均值、最小/最大值、中值、标准差等。
-#输入'python groupby_mathCalculate.py -h'查看使用说明
+#你可以输入执行如下查看一个实例的结果(更多说明输入'python groupby_mathCalculate.py -h')
+#python groupby_mathCalculate.py -i sample.csv -g Gene -m sum -o result.txt
 def main(argv):
 	#get command
 	try:
@@ -35,10 +36,8 @@ You need to use the command like:
 		-i is needed   (inputFile,such as sample.csv)
  			       (It is better to input pure digital text, except for the columns you need to groupby)
 		-g is needed   (groupByColumns, the column for grouping data, such as '-g taxonomy')
-			       (if you want to group data according to two or more columns, such as '-c Entry,taxonomy' Warning!!!no space between Entry and taxonomy)
+			       (if you want to group data according to two or more columns, such as '-g Entry,taxonomy' Warning!!!no space between Entry and taxonomy)
 		-m is needed   (mathematical method, such as 'sum, mean, min, max, median, std')
-                 	       (if you want to all, please type like '-c all')
-                       	       (when you type -c all, the 'sum' result is not included, but we have count and mean, you can calculate by yourselve)
 		-o is optional (outFileName, but it must be end with '.txt/.xls' or '.csv', default is result_inputFile, such as result_sample.csv)
 			''')			   
 			sys.exit()
@@ -50,8 +49,8 @@ You need to use the command like:
 			para['group'] = [i.strip() for i in value.split(',')]
 		if option in ("-o", "--outFile"):
 			para['of'] = value
-		if (option in ("-m", "--math")) and (value in ['sum','mean','min','max','std','median','std', 'all']):
-			para['math'] = value if value != 'all' else 'describe'
+		if (option in ("-m", "--math")) and (value in ['sum','mean','min','max','std','median','std']):
+			para['math'] = value
 			
 	#check rawfile, targetfile, merge_colnames and outfile
 	if not (('if' in para) and ('group' in para)):

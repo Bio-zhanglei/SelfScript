@@ -1,3 +1,7 @@
+#你需要安装pandas
+#此脚本用于标准化(计算某一列个数据所占百分比)。
+#你可以如下执行查看一个示例的结果(更多帮助输入'python normalize.py -h')
+#python normalize.py -i sample.xls -c A1 -o results.txt -r Gene
 def main(argv):
 	#get command
 	try:

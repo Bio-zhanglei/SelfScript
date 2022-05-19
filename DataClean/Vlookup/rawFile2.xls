@@ -1,0 +1,1000 @@
+Gene	Entry	Category1	Category2	Category3	Pathway	Description
+HZ10__56_1	K08281	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism	ko00760	pncA; nicotinamidase/pyrazinamidase [EC:3.5.1.19 3.5.1.-]
+HZ10__56_1	K08281	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	pncA; nicotinamidase/pyrazinamidase [EC:3.5.1.19 3.5.1.-]
+HZ10__83_2	K02990	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-S6, MRPS6, rpsF; small subunit ribosomal protein S6
+HZ10__83_3	K02963	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-S18, MRPS18, rpsR; small subunit ribosomal protein S18
+HZ10__83_4	K02939	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L9, MRPL9, rplI; large subunit ribosomal protein L9
+HZ10__117_2	K02982	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-S3, rpsC; small subunit ribosomal protein S3
+HZ10__117_3	K02878	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L16, MRPL16, rplP; large subunit ribosomal protein L16
+HZ10__117_4	K02904	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L29, rpmC; large subunit ribosomal protein L29
+HZ10__117_5	K02961	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-S17, MRPS17, rpsQ; small subunit ribosomal protein S17
+HZ10__117_6	K02874	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L14, MRPL14, rplN; large subunit ribosomal protein L14
+HZ10__117_7	K02895	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L24, MRPL24, rplX; large subunit ribosomal protein L24
+HZ10__117_9	K02994	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-S8, rpsH; small subunit ribosomal protein S8
+HZ10__117_10	K02933	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L6, MRPL6, rplF; large subunit ribosomal protein L6
+HZ10__145_2	K01937	1. Metabolism	1.4 Nucleotide metabolism	Pyrimidine metabolism	ko00240	pyrG, CTPS; CTP synthase [EC:6.3.4.2]
+HZ10__145_2	K01937	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	pyrG, CTPS; CTP synthase [EC:6.3.4.2]
+HZ10__160_2	K01991	3. Environmental Information Processing	3.2 Signal transduction	Two-component system	ko02020	wza, gfcE; polysaccharide biosynthesis/export protein
+HZ10__160_2	K01991	4. Cellular Processes	4.4 Cellular community - prokaryotes	Biofilm formation - Escherichia coli	ko02026	wza, gfcE; polysaccharide biosynthesis/export protein
+HZ10__173_1	K11129	2. Genetic Information Processing	2.2 Translation	Ribosome biogenesis in eukaryotes	ko03008	NHP2, NOLA2; H/ACA ribonucleoprotein complex subunit 2
+HZ10__179_1	K05759	3. Environmental Information Processing	3.2 Signal transduction	MAPK signaling pathway - fly	ko04013	PFN; profilin
+HZ10__179_1	K05759	3. Environmental Information Processing	3.2 Signal transduction	Rap1 signaling pathway	ko04015	PFN; profilin
+HZ10__179_1	K05759	4. Cellular Processes	4.5 Cell motility	Regulation of actin cytoskeleton	ko04810	PFN; profilin
+HZ10__179_1	K05759	6. Human Diseases	6.8 Infectious disease: bacterial	Shigellosis	ko05131	PFN; profilin
+HZ10__179_1	K05759	6. Human Diseases	6.8 Infectious disease: bacterial	Salmonella infection	ko05132	PFN; profilin
+HZ10__222_3	K09815	3. Environmental Information Processing	3.1 Membrane transport	ABC transporters	ko02010	znuA; zinc transport system substrate-binding protein
+HZ10__227_2	K02926	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L4, MRPL4, rplD; large subunit ribosomal protein L4
+HZ10__238_1	K03701	2. Genetic Information Processing	2.4 Replication and repair	Nucleotide excision repair	ko03420	uvrA; excinuclease ABC subunit A
+HZ10__263_1	K02106	3. Environmental Information Processing	3.2 Signal transduction	Two-component system	ko02020	atoE; short-chain fatty acids transporter
+HZ10__293_2	K12668	1. Metabolism	1.7 Glycan biosynthesis and metabolism	N-Glycan biosynthesis	ko00510	OST2, DAD1; oligosaccharyltransferase complex subunit epsilon
+HZ10__293_2	K12668	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Various types of N-glycan biosynthesis	ko00513	OST2, DAD1; oligosaccharyltransferase complex subunit epsilon
+HZ10__293_2	K12668	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	OST2, DAD1; oligosaccharyltransferase complex subunit epsilon
+HZ10__293_2	K12668	2. Genetic Information Processing	2.3 Folding, sorting and degradation	Protein processing in endoplasmic reticulum	ko04141	OST2, DAD1; oligosaccharyltransferase complex subunit epsilon
+HZ10__307_2	K12257	4. Cellular Processes	4.4 Cellular community - prokaryotes	Quorum sensing	ko02024	secDF; SecD/SecF fusion protein
+HZ10__307_2	K12257	2. Genetic Information Processing	2.3 Folding, sorting and degradation	Protein export	ko03060	secDF; SecD/SecF fusion protein
+HZ10__307_2	K12257	3. Environmental Information Processing	3.1 Membrane transport	Bacterial secretion system	ko03070	secDF; SecD/SecF fusion protein
+HZ10__315_1	K02114	1. Metabolism	1.2 Energy metabolism	Oxidative phosphorylation	ko00190	ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon
+HZ10__315_1	K02114	1. Metabolism	1.2 Energy metabolism	Photosynthesis	ko00195	ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon
+HZ10__315_1	K02114	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon
+HZ10__361_2	K00931	1. Metabolism	1.5 Amino acid metabolism	Arginine and proline metabolism	ko00330	proB; glutamate 5-kinase [EC:2.7.2.11]
+HZ10__361_2	K00931	1. Metabolism	1.10 Biosynthesis of other secondary metabolites	Carbapenem biosynthesis	ko00332	proB; glutamate 5-kinase [EC:2.7.2.11]
+HZ10__361_2	K00931	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	proB; glutamate 5-kinase [EC:2.7.2.11]
+HZ10__361_2	K00931	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	proB; glutamate 5-kinase [EC:2.7.2.11]
+HZ10__361_2	K00931	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	proB; glutamate 5-kinase [EC:2.7.2.11]
+HZ10__361_2	K00931	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	proB; glutamate 5-kinase [EC:2.7.2.11]
+HZ10__371_1	K01818	1. Metabolism	1.1 Carbohydrate metabolism	Fructose and mannose metabolism	ko00051	fucI; L-fucose/D-arabinose isomerase [EC:5.3.1.25 5.3.1.3]
+HZ10__371_1	K01818	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	fucI; L-fucose/D-arabinose isomerase [EC:5.3.1.25 5.3.1.3]
+HZ10__371_1	K01818	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	fucI; L-fucose/D-arabinose isomerase [EC:5.3.1.25 5.3.1.3]
+HZ10__392_2	K00765	1. Metabolism	1.5 Amino acid metabolism	Histidine metabolism	ko00340	hisG; ATP phosphoribosyltransferase [EC:2.4.2.17]
+HZ10__392_2	K00765	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	hisG; ATP phosphoribosyltransferase [EC:2.4.2.17]
+HZ10__392_2	K00765	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	hisG; ATP phosphoribosyltransferase [EC:2.4.2.17]
+HZ10__392_2	K00765	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	hisG; ATP phosphoribosyltransferase [EC:2.4.2.17]
+HZ10__467_1	K01051	1. Metabolism	1.1 Carbohydrate metabolism	Pentose and glucuronate interconversions	ko00040	E3.1.1.11; pectinesterase [EC:3.1.1.11]
+HZ10__467_1	K01051	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	E3.1.1.11; pectinesterase [EC:3.1.1.11]
+HZ10__467_1	K01051	3. Environmental Information Processing	3.2 Signal transduction	Two-component system	ko02020	E3.1.1.11; pectinesterase [EC:3.1.1.11]
+HZ10__490_1	K01937	1. Metabolism	1.4 Nucleotide metabolism	Pyrimidine metabolism	ko00240	pyrG, CTPS; CTP synthase [EC:6.3.4.2]
+HZ10__490_1	K01937	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	pyrG, CTPS; CTP synthase [EC:6.3.4.2]
+HZ10__497_1	K02982	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-S3, rpsC; small subunit ribosomal protein S3
+HZ10__498_1	K01991	3. Environmental Information Processing	3.2 Signal transduction	Two-component system	ko02020	wza, gfcE; polysaccharide biosynthesis/export protein
+HZ10__498_1	K01991	4. Cellular Processes	4.4 Cellular community - prokaryotes	Biofilm formation - Escherichia coli	ko02026	wza, gfcE; polysaccharide biosynthesis/export protein
+HZ10__541_1	K03273	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis	ko00540	gmhB; D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase [EC:3.1.3.82 3.1.3.83]
+HZ10__541_1	K03273	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	gmhB; D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase [EC:3.1.3.82 3.1.3.83]
+HZ10__542_1	K01198	1. Metabolism	1.1 Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	ko00520	xynB; xylan 1,4-beta-xylosidase [EC:3.2.1.37]
+HZ10__542_1	K01198	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	xynB; xylan 1,4-beta-xylosidase [EC:3.2.1.37]
+HZ10__556_2	K01091	1. Metabolism	1.1 Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism	ko00630	gph; phosphoglycolate phosphatase [EC:3.1.3.18]
+HZ10__556_2	K01091	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	gph; phosphoglycolate phosphatase [EC:3.1.3.18]
+HZ10__556_2	K01091	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	gph; phosphoglycolate phosphatase [EC:3.1.3.18]
+HZ10__556_2	K01091	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	gph; phosphoglycolate phosphatase [EC:3.1.3.18]
+HZ10__603_1	K02994	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-S8, rpsH; small subunit ribosomal protein S8
+HZ10__605_1	K00971	1. Metabolism	1.1 Carbohydrate metabolism	Fructose and mannose metabolism	ko00051	manC, cpsB; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]
+HZ10__605_1	K00971	1. Metabolism	1.1 Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	ko00520	manC, cpsB; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]
+HZ10__605_1	K00971	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	manC, cpsB; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]
+HZ10__605_1	K00971	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	manC, cpsB; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]
+HZ10__614_2	K03590	4. Cellular Processes	4.2 Cell growth and death	Cell cycle - Caulobacter	ko04112	ftsA; cell division protein FtsA
+HZ10__620_2	K01644	3. Environmental Information Processing	3.2 Signal transduction	Two-component system	ko02020	citE; citrate lyase subunit beta / citryl-CoA lyase [EC:4.1.3.34]
+HZ10__639_1	K01711	1. Metabolism	1.1 Carbohydrate metabolism	Fructose and mannose metabolism	ko00051	gmd, GMDS; GDPmannose 4,6-dehydratase [EC:4.2.1.47]
+HZ10__639_1	K01711	1. Metabolism	1.1 Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	ko00520	gmd, GMDS; GDPmannose 4,6-dehydratase [EC:4.2.1.47]
+HZ10__639_1	K01711	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	gmd, GMDS; GDPmannose 4,6-dehydratase [EC:4.2.1.47]
+HZ10__677_1	K01939	1. Metabolism	1.4 Nucleotide metabolism	Purine metabolism	ko00230	purA, ADSS; adenylosuccinate synthase [EC:6.3.4.4]
+HZ10__677_1	K01939	1. Metabolism	1.5 Amino acid metabolism	Alanine, aspartate and glutamate metabolism	ko00250	purA, ADSS; adenylosuccinate synthase [EC:6.3.4.4]
+HZ10__677_1	K01939	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	purA, ADSS; adenylosuccinate synthase [EC:6.3.4.4]
+HZ10__701_2	K01893	2. Genetic Information Processing	2.2 Translation	Aminoacyl-tRNA biosynthesis	ko00970	NARS, asnS; asparaginyl-tRNA synthetase [EC:6.1.1.22]
+HZ10__715_1	K01270	1. Metabolism	1.6 Metabolism of other amino acids	Glutathione metabolism	ko00480	pepD; dipeptidase D [EC:3.4.13.-]
+HZ10__715_1	K01270	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	pepD; dipeptidase D [EC:3.4.13.-]
+HZ10__718_1	K09474	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Riboflavin metabolism	ko00740	phoN; acid phosphatase (class A) [EC:3.1.3.2]
+HZ10__718_1	K09474	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	phoN; acid phosphatase (class A) [EC:3.1.3.2]
+HZ10__718_1	K09474	3. Environmental Information Processing	3.2 Signal transduction	Two-component system	ko02020	phoN; acid phosphatase (class A) [EC:3.1.3.2]
+HZ10__787_1	K03550	2. Genetic Information Processing	2.4 Replication and repair	Homologous recombination	ko03440	ruvA; holliday junction DNA helicase RuvA [EC:3.6.4.12]
+HZ10__793_2	K01815	1. Metabolism	1.1 Carbohydrate metabolism	Pentose and glucuronate interconversions	ko00040	kduI; 4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase [EC:5.3.1.17]
+HZ10__793_2	K01815	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	kduI; 4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase [EC:5.3.1.17]
+HZ10__793_3	K02775	1. Metabolism	1.1 Carbohydrate metabolism	Galactose metabolism	ko00052	gatC, sgcC; galactitol PTS system EIIC component
+HZ10__793_3	K02775	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	gatC, sgcC; galactitol PTS system EIIC component
+HZ10__793_3	K02775	3. Environmental Information Processing	3.1 Membrane transport	Phosphotransferase system (PTS)	ko02060	gatC, sgcC; galactitol PTS system EIIC component
+HZ10__793_4	K01775	1. Metabolism	1.6 Metabolism of other amino acids	D-Alanine metabolism	ko00473	alr; alanine racemase [EC:5.1.1.1]
+HZ10__793_4	K01775	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	alr; alanine racemase [EC:5.1.1.1]
+HZ10__793_4	K01775	6. Human Diseases	6.11 Drug resistance: antimicrobial	Vancomycin resistance	ko01502	alr; alanine racemase [EC:5.1.1.1]
+HZ10__843_1	K11753	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Riboflavin metabolism	ko00740	ribF; riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]
+HZ10__843_1	K11753	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	ribF; riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]
+HZ10__843_1	K11753	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	ribF; riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]
+HZ10__843_5	K00930	1. Metabolism	1.5 Amino acid metabolism	Arginine biosynthesis	ko00220	argB; acetylglutamate kinase [EC:2.7.2.8]
+HZ10__843_5	K00930	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	argB; acetylglutamate kinase [EC:2.7.2.8]
+HZ10__843_5	K00930	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	argB; acetylglutamate kinase [EC:2.7.2.8]
+HZ10__843_5	K00930	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	argB; acetylglutamate kinase [EC:2.7.2.8]
+HZ10__843_5	K00930	1. Metabolism	1.0 Global and overview maps	2-Oxocarboxylic acid metabolism	ko01210	argB; acetylglutamate kinase [EC:2.7.2.8]
+HZ10__843_5	K00930	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	argB; acetylglutamate kinase [EC:2.7.2.8]
+HZ10__904_1	K00688	1. Metabolism	1.1 Carbohydrate metabolism	Starch and sucrose metabolism	ko00500	PYG, glgP; glycogen phosphorylase [EC:2.4.1.1]
+HZ10__904_1	K00688	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	PYG, glgP; glycogen phosphorylase [EC:2.4.1.1]
+HZ10__904_1	K00688	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	PYG, glgP; glycogen phosphorylase [EC:2.4.1.1]
+HZ10__904_1	K00688	4. Cellular Processes	4.4 Cellular community - prokaryotes	Biofilm formation - Escherichia coli	ko02026	PYG, glgP; glycogen phosphorylase [EC:2.4.1.1]
+HZ10__904_1	K00688	4. Cellular Processes	4.2 Cell growth and death	Necroptosis	ko04217	PYG, glgP; glycogen phosphorylase [EC:2.4.1.1]
+HZ10__904_1	K00688	5. Organismal Systems	5.2 Endocrine system	Insulin signaling pathway	ko04910	PYG, glgP; glycogen phosphorylase [EC:2.4.1.1]
+HZ10__904_1	K00688	5. Organismal Systems	5.2 Endocrine system	Glucagon signaling pathway	ko04922	PYG, glgP; glycogen phosphorylase [EC:2.4.1.1]
+HZ10__904_1	K00688	6. Human Diseases	6.7 Endocrine and metabolic disease	Insulin resistance	ko04931	PYG, glgP; glycogen phosphorylase [EC:2.4.1.1]
+HZ10__912_1	K10956	2. Genetic Information Processing	2.3 Folding, sorting and degradation	Protein export	ko03060	SEC61A; protein transport protein SEC61 subunit alpha
+HZ10__912_1	K10956	2. Genetic Information Processing	2.3 Folding, sorting and degradation	Protein processing in endoplasmic reticulum	ko04141	SEC61A; protein transport protein SEC61 subunit alpha
+HZ10__912_1	K10956	4. Cellular Processes	4.1 Transport and catabolism	Phagosome	ko04145	SEC61A; protein transport protein SEC61 subunit alpha
+HZ10__912_1	K10956	6. Human Diseases	6.8 Infectious disease: bacterial	Vibrio cholerae infection	ko05110	SEC61A; protein transport protein SEC61 subunit alpha
+HZ10__962_2	K07456	2. Genetic Information Processing	2.4 Replication and repair	Mismatch repair	ko03430	mutS2; DNA mismatch repair protein MutS2
+HZ10__962_4	K00971	1. Metabolism	1.1 Carbohydrate metabolism	Fructose and mannose metabolism	ko00051	manC, cpsB; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]
+HZ10__962_4	K00971	1. Metabolism	1.1 Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	ko00520	manC, cpsB; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]
+HZ10__962_4	K00971	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	manC, cpsB; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]
+HZ10__962_4	K00971	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	manC, cpsB; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]
+HZ10__983_1	K00053	1. Metabolism	1.5 Amino acid metabolism	Valine, leucine and isoleucine biosynthesis	ko00290	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]
+HZ10__983_1	K00053	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis	ko00770	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]
+HZ10__983_1	K00053	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]
+HZ10__983_1	K00053	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]
+HZ10__983_1	K00053	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]
+HZ10__983_1	K00053	1. Metabolism	1.0 Global and overview maps	2-Oxocarboxylic acid metabolism	ko01210	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]
+HZ10__983_1	K00053	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]
+HZ10__989_3	K02316	2. Genetic Information Processing	2.4 Replication and repair	DNA replication	ko03030	dnaG; DNA primase [EC:2.7.7.101]
+HZ10__1010_1	K01621	1. Metabolism	1.1 Carbohydrate metabolism	Pentose phosphate pathway	ko00030	xfp, xpk; xylulose-5-phosphate/fructose-6-phosphate phosphoketolase [EC:4.1.2.9 4.1.2.22]
+HZ10__1010_1	K01621	1. Metabolism	1.2 Energy metabolism	Carbon fixation in photosynthetic organisms	ko00710	xfp, xpk; xylulose-5-phosphate/fructose-6-phosphate phosphoketolase [EC:4.1.2.9 4.1.2.22]
+HZ10__1010_1	K01621	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	xfp, xpk; xylulose-5-phosphate/fructose-6-phosphate phosphoketolase [EC:4.1.2.9 4.1.2.22]
+HZ10__1010_1	K01621	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	xfp, xpk; xylulose-5-phosphate/fructose-6-phosphate phosphoketolase [EC:4.1.2.9 4.1.2.22]
+HZ10__1144_1	K01470	1. Metabolism	1.5 Amino acid metabolism	Arginine and proline metabolism	ko00330	E3.5.2.10; creatinine amidohydrolase [EC:3.5.2.10]
+HZ10__1144_1	K01470	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	E3.5.2.10; creatinine amidohydrolase [EC:3.5.2.10]
+HZ10__1213_1	K12403	4. Cellular Processes	4.1 Transport and catabolism	Lysosome	ko04142	AP4S1; AP-4 complex subunit sigma-1
+HZ10__1249_2	K03154	2. Genetic Information Processing	2.3 Folding, sorting and degradation	Sulfur relay system	ko04122	thiS; sulfur carrier protein
+HZ10__1263_1	K00784	2. Genetic Information Processing	2.2 Translation	RNA transport	ko03013	rnz; ribonuclease Z [EC:3.1.26.11]
+HZ10__1298_1	K15923	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Other glycan degradation	ko00511	AXY8, FUC95A, afcA; alpha-L-fucosidase 2 [EC:3.2.1.51]
+HZ10__1301_2	K02935	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L7, MRPL12, rplL; large subunit ribosomal protein L7/L12
+HZ10__1330_19	K09808	3. Environmental Information Processing	3.1 Membrane transport	ABC transporters	ko02010	lolC_E; lipoprotein-releasing system permease protein
+HZ10__1330_21	K01783	1. Metabolism	1.1 Carbohydrate metabolism	Pentose phosphate pathway	ko00030	rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+HZ10__1330_21	K01783	1. Metabolism	1.1 Carbohydrate metabolism	Pentose and glucuronate interconversions	ko00040	rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+HZ10__1330_21	K01783	1. Metabolism	1.2 Energy metabolism	Carbon fixation in photosynthetic organisms	ko00710	rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+HZ10__1330_21	K01783	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+HZ10__1330_21	K01783	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+HZ10__1330_21	K01783	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+HZ10__1330_21	K01783	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+HZ10__1330_21	K01783	1. Metabolism	1.0 Global and overview maps	Carbon metabolism	ko01200	rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+HZ10__1330_21	K01783	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+HZ10__1330_22	K09457	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Folate biosynthesis	ko00790	queF; 7-cyano-7-deazaguanine reductase [EC:1.7.1.13]
+HZ10__1330_22	K09457	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	queF; 7-cyano-7-deazaguanine reductase [EC:1.7.1.13]
+HZ10__1330_24	K01737	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Folate biosynthesis	ko00790	queD, ptpS, PTS; 6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]
+HZ10__1330_24	K01737	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	queD, ptpS, PTS; 6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]
+HZ10__1330_25	K10026	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Folate biosynthesis	ko00790	queE; 7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]
+HZ10__1330_25	K10026	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	queE; 7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]
+HZ10__1411_2	K03786	1. Metabolism	1.5 Amino acid metabolism	Phenylalanine, tyrosine and tryptophan biosynthesis	ko00400	aroQ, qutE; 3-dehydroquinate dehydratase II [EC:4.2.1.10]
+HZ10__1411_2	K03786	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	aroQ, qutE; 3-dehydroquinate dehydratase II [EC:4.2.1.10]
+HZ10__1411_2	K03786	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	aroQ, qutE; 3-dehydroquinate dehydratase II [EC:4.2.1.10]
+HZ10__1411_2	K03786	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	aroQ, qutE; 3-dehydroquinate dehydratase II [EC:4.2.1.10]
+HZ10__1411_2	K03786	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	aroQ, qutE; 3-dehydroquinate dehydratase II [EC:4.2.1.10]
+HZ10__1418_2	K03092	3. Environmental Information Processing	3.2 Signal transduction	Two-component system	ko02020	rpoN; RNA polymerase sigma-54 factor
+HZ10__1418_2	K03092	4. Cellular Processes	4.4 Cellular community - prokaryotes	Biofilm formation - Vibrio cholerae	ko05111	rpoN; RNA polymerase sigma-54 factor
+HZ10__1418_4	K01588	1. Metabolism	1.4 Nucleotide metabolism	Purine metabolism	ko00230	purE; 5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]
+HZ10__1418_4	K01588	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	purE; 5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]
+HZ10__1418_4	K01588	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	purE; 5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]
+HZ10__1418_4	K01588	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	purE; 5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]
+HZ10__1418_5	K03526	1. Metabolism	1.9 Metabolism of terpenoids and polyketides	Terpenoid backbone biosynthesis	ko00900	gcpE, ispG; (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]
+HZ10__1418_5	K03526	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	gcpE, ispG; (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]
+HZ10__1418_5	K03526	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	gcpE, ispG; (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]
+HZ10__1418_5	K03526	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	gcpE, ispG; (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]
+HZ10__1439_2	K02437	1. Metabolism	1.5 Amino acid metabolism	Glycine, serine and threonine metabolism	ko00260	gcvH, GCSH; glycine cleavage system H protein
+HZ10__1439_2	K02437	1. Metabolism	1.1 Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism	ko00630	gcvH, GCSH; glycine cleavage system H protein
+HZ10__1439_2	K02437	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	gcvH, GCSH; glycine cleavage system H protein
+HZ10__1439_2	K02437	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	gcvH, GCSH; glycine cleavage system H protein
+HZ10__1439_2	K02437	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	gcvH, GCSH; glycine cleavage system H protein
+HZ10__1439_2	K02437	1. Metabolism	1.0 Global and overview maps	Carbon metabolism	ko01200	gcvH, GCSH; glycine cleavage system H protein
+HZ10__1449_3	K03752	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Folate biosynthesis	ko00790	mobA; molybdenum cofactor guanylyltransferase [EC:2.7.7.77]
+HZ10__1449_3	K03752	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	mobA; molybdenum cofactor guanylyltransferase [EC:2.7.7.77]
+HZ10__1471_1	K01448	6. Human Diseases	6.11 Drug resistance: antimicrobial	Cationic antimicrobial peptide (CAMP) resistance	ko01503	amiABC; N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+HZ10__1512_1	K04649	2. Genetic Information Processing	2.3 Folding, sorting and degradation	Ubiquitin mediated proteolysis	ko04120	HIP2, UBC1; ubiquitin-conjugating enzyme (huntingtin interacting protein 2) [EC:2.3.2.23]
+HZ10__1551_1	K01206	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Other glycan degradation	ko00511	FUCA; alpha-L-fucosidase [EC:3.2.1.51]
+HZ10__1556_2	K01803	1. Metabolism	1.1 Carbohydrate metabolism	Glycolysis / Gluconeogenesis	ko00010	TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]
+HZ10__1556_2	K01803	1. Metabolism	1.1 Carbohydrate metabolism	Fructose and mannose metabolism	ko00051	TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]
+HZ10__1556_2	K01803	1. Metabolism	1.1 Carbohydrate metabolism	Inositol phosphate metabolism	ko00562	TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]
+HZ10__1556_2	K01803	1. Metabolism	1.2 Energy metabolism	Carbon fixation in photosynthetic organisms	ko00710	TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]
+HZ10__1556_2	K01803	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]
+HZ10__1556_2	K01803	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]
+HZ10__1556_2	K01803	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]
+HZ10__1556_2	K01803	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]
+HZ10__1556_2	K01803	1. Metabolism	1.0 Global and overview maps	Carbon metabolism	ko01200	TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]
+HZ10__1556_2	K01803	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]
+HZ10__1563_9	K03111	2. Genetic Information Processing	2.4 Replication and repair	DNA replication	ko03030	ssb; single-strand DNA-binding protein
+HZ10__1563_9	K03111	2. Genetic Information Processing	2.4 Replication and repair	Mismatch repair	ko03430	ssb; single-strand DNA-binding protein
+HZ10__1563_9	K03111	2. Genetic Information Processing	2.4 Replication and repair	Homologous recombination	ko03440	ssb; single-strand DNA-binding protein
+HZ10__1565_2	K11749	4. Cellular Processes	4.2 Cell growth and death	Cell cycle - Caulobacter	ko04112	rseP; regulator of sigma E protease [EC:3.4.24.-]
+HZ10__1569_1	K01653	1. Metabolism	1.5 Amino acid metabolism	Valine, leucine and isoleucine biosynthesis	ko00290	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__1569_1	K01653	1. Metabolism	1.1 Carbohydrate metabolism	Butanoate metabolism	ko00650	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__1569_1	K01653	1. Metabolism	1.1 Carbohydrate metabolism	C5-Branched dibasic acid metabolism	ko00660	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__1569_1	K01653	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis	ko00770	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__1569_1	K01653	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__1569_1	K01653	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__1569_1	K01653	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__1569_1	K01653	1. Metabolism	1.0 Global and overview maps	2-Oxocarboxylic acid metabolism	ko01210	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__1569_1	K01653	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__1569_2	K01652	1. Metabolism	1.5 Amino acid metabolism	Valine, leucine and isoleucine biosynthesis	ko00290	E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]
+HZ10__1569_2	K01652	1. Metabolism	1.1 Carbohydrate metabolism	Butanoate metabolism	ko00650	E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]
+HZ10__1569_2	K01652	1. Metabolism	1.1 Carbohydrate metabolism	C5-Branched dibasic acid metabolism	ko00660	E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]
+HZ10__1569_2	K01652	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis	ko00770	E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]
+HZ10__1569_2	K01652	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]
+HZ10__1569_2	K01652	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]
+HZ10__1569_2	K01652	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]
+HZ10__1569_2	K01652	1. Metabolism	1.0 Global and overview maps	2-Oxocarboxylic acid metabolism	ko01210	E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]
+HZ10__1569_2	K01652	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]
+HZ10__1581_1	K01051	1. Metabolism	1.1 Carbohydrate metabolism	Pentose and glucuronate interconversions	ko00040	E3.1.1.11; pectinesterase [EC:3.1.1.11]
+HZ10__1581_1	K01051	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	E3.1.1.11; pectinesterase [EC:3.1.1.11]
+HZ10__1581_1	K01051	3. Environmental Information Processing	3.2 Signal transduction	Two-component system	ko02020	E3.1.1.11; pectinesterase [EC:3.1.1.11]
+HZ10__1591_1	K21636	1. Metabolism	1.4 Nucleotide metabolism	Purine metabolism	ko00230	nrdD; ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6]
+HZ10__1591_1	K21636	1. Metabolism	1.4 Nucleotide metabolism	Pyrimidine metabolism	ko00240	nrdD; ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6]
+HZ10__1591_1	K21636	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	nrdD; ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6]
+HZ10__1630_1	K02035	4. Cellular Processes	4.4 Cellular community - prokaryotes	Quorum sensing	ko02024	ABC.PE.S; peptide/nickel transport system substrate-binding protein
+HZ10__1653_1	K12393	4. Cellular Processes	4.1 Transport and catabolism	Lysosome	ko04142	AP1M; AP-1 complex subunit mu
+HZ10__1653_1	K12393	6. Human Diseases	6.9 Infectious disease: viral	Human immunodeficiency virus 1 infection	ko05170	AP1M; AP-1 complex subunit mu
+HZ10__1665_2	K01619	1. Metabolism	1.1 Carbohydrate metabolism	Pentose phosphate pathway	ko00030	deoC, DERA; deoxyribose-phosphate aldolase [EC:4.1.2.4]
+HZ10__1665_2	K01619	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	deoC, DERA; deoxyribose-phosphate aldolase [EC:4.1.2.4]
+HZ10__1824_1	K21636	1. Metabolism	1.4 Nucleotide metabolism	Purine metabolism	ko00230	nrdD; ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6]
+HZ10__1824_1	K21636	1. Metabolism	1.4 Nucleotide metabolism	Pyrimidine metabolism	ko00240	nrdD; ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6]
+HZ10__1824_1	K21636	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	nrdD; ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6]
+HZ10__1844_2	K04516	1. Metabolism	1.5 Amino acid metabolism	Phenylalanine, tyrosine and tryptophan biosynthesis	ko00400	AROA1, aroA; chorismate mutase [EC:5.4.99.5]
+HZ10__1844_2	K04516	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	AROA1, aroA; chorismate mutase [EC:5.4.99.5]
+HZ10__1844_2	K04516	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	AROA1, aroA; chorismate mutase [EC:5.4.99.5]
+HZ10__1844_2	K04516	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	AROA1, aroA; chorismate mutase [EC:5.4.99.5]
+HZ10__1844_2	K04516	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	AROA1, aroA; chorismate mutase [EC:5.4.99.5]
+HZ10__1861_1	K01607	1. Metabolism	1.11 Xenobiotics biodegradation and metabolism	Benzoate degradation	ko00362	pcaC; 4-carboxymuconolactone decarboxylase [EC:4.1.1.44]
+HZ10__1861_1	K01607	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	pcaC; 4-carboxymuconolactone decarboxylase [EC:4.1.1.44]
+HZ10__1861_1	K01607	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	pcaC; 4-carboxymuconolactone decarboxylase [EC:4.1.1.44]
+HZ10__1861_1	K01607	1. Metabolism	1.0 Global and overview maps	Degradation of aromatic compounds	ko01220	pcaC; 4-carboxymuconolactone decarboxylase [EC:4.1.1.44]
+HZ10__1873_1	K00075	1. Metabolism	1.1 Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	ko00520	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]
+HZ10__1873_1	K00075	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis	ko00550	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]
+HZ10__1873_1	K00075	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]
+HZ10__1891_2	K00857	1. Metabolism	1.4 Nucleotide metabolism	Pyrimidine metabolism	ko00240	tdk, TK; thymidine kinase [EC:2.7.1.21]
+HZ10__1891_2	K00857	1. Metabolism	1.11 Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes	ko00983	tdk, TK; thymidine kinase [EC:2.7.1.21]
+HZ10__1891_2	K00857	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	tdk, TK; thymidine kinase [EC:2.7.1.21]
+HZ10__1899_1	K00600	1. Metabolism	1.5 Amino acid metabolism	Glycine, serine and threonine metabolism	ko00260	glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]
+HZ10__1899_1	K00600	1. Metabolism	1.6 Metabolism of other amino acids	Cyanoamino acid metabolism	ko00460	glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]
+HZ10__1899_1	K00600	1. Metabolism	1.1 Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism	ko00630	glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]
+HZ10__1899_1	K00600	1. Metabolism	1.8 Metabolism of cofactors and vitamins	One carbon pool by folate	ko00670	glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]
+HZ10__1899_1	K00600	1. Metabolism	1.2 Energy metabolism	Methane metabolism	ko00680	glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]
+HZ10__1899_1	K00600	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]
+HZ10__1899_1	K00600	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]
+HZ10__1899_1	K00600	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]
+HZ10__1899_1	K00600	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]
+HZ10__1899_1	K00600	1. Metabolism	1.0 Global and overview maps	Carbon metabolism	ko01200	glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]
+HZ10__1899_1	K00600	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]
+HZ10__1899_1	K00600	6. Human Diseases	6.12 Drug resistance: antineoplastic	Antifolate resistance	ko01523	glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]
+HZ10__1924_1	K06920	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Folate biosynthesis	ko00790	queC; 7-cyano-7-deazaguanine synthase [EC:6.3.4.20]
+HZ10__1924_1	K06920	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	queC; 7-cyano-7-deazaguanine synthase [EC:6.3.4.20]
+HZ10__1967_2	K02939	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L9, MRPL9, rplI; large subunit ribosomal protein L9
+HZ10__1968_1	K00954	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis	ko00770	E2.7.7.3A, coaD, kdtB; pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]
+HZ10__1968_1	K00954	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	E2.7.7.3A, coaD, kdtB; pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]
+HZ10__1989_1	K01940	1. Metabolism	1.5 Amino acid metabolism	Arginine biosynthesis	ko00220	argG, ASS1; argininosuccinate synthase [EC:6.3.4.5]
+HZ10__1989_1	K01940	1. Metabolism	1.5 Amino acid metabolism	Alanine, aspartate and glutamate metabolism	ko00250	argG, ASS1; argininosuccinate synthase [EC:6.3.4.5]
+HZ10__1989_1	K01940	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	argG, ASS1; argininosuccinate synthase [EC:6.3.4.5]
+HZ10__1989_1	K01940	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	argG, ASS1; argininosuccinate synthase [EC:6.3.4.5]
+HZ10__1989_1	K01940	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	argG, ASS1; argininosuccinate synthase [EC:6.3.4.5]
+HZ10__1989_1	K01940	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	argG, ASS1; argininosuccinate synthase [EC:6.3.4.5]
+HZ10__1989_1	K01940	6. Human Diseases	6.6 Cardiovascular disease	Fluid shear stress and atherosclerosis	ko05418	argG, ASS1; argininosuccinate synthase [EC:6.3.4.5]
+HZ10__2000_2	K02066	3. Environmental Information Processing	3.1 Membrane transport	ABC transporters	ko02010	mlaE, linK; phospholipid/cholesterol/gamma-HCH transport system permease protein
+HZ10__2004_1	K01011	1. Metabolism	1.5 Amino acid metabolism	Cysteine and methionine metabolism	ko00270	TST, MPST, sseA; thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]
+HZ10__2004_1	K01011	1. Metabolism	1.2 Energy metabolism	Sulfur metabolism	ko00920	TST, MPST, sseA; thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]
+HZ10__2004_1	K01011	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	TST, MPST, sseA; thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]
+HZ10__2004_1	K01011	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	TST, MPST, sseA; thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]
+HZ10__2004_1	K01011	2. Genetic Information Processing	2.3 Folding, sorting and degradation	Sulfur relay system	ko04122	TST, MPST, sseA; thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]
+HZ10__2033_3	K02067	3. Environmental Information Processing	3.1 Membrane transport	ABC transporters	ko02010	mlaD, linM; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein
+HZ10__2055_1	K01918	1. Metabolism	1.6 Metabolism of other amino acids	beta-Alanine metabolism	ko00410	panC; pantoate--beta-alanine ligase [EC:6.3.2.1]
+HZ10__2055_1	K01918	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis	ko00770	panC; pantoate--beta-alanine ligase [EC:6.3.2.1]
+HZ10__2055_1	K01918	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	panC; pantoate--beta-alanine ligase [EC:6.3.2.1]
+HZ10__2055_1	K01918	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	panC; pantoate--beta-alanine ligase [EC:6.3.2.1]
+HZ10__2055_2	K00606	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis	ko00770	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]
+HZ10__2055_2	K00606	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]
+HZ10__2055_2	K00606	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]
+HZ10__2082_1	K01448	6. Human Diseases	6.11 Drug resistance: antimicrobial	Cationic antimicrobial peptide (CAMP) resistance	ko01503	amiABC; N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+HZ10__2091_1	K04077	2. Genetic Information Processing	2.3 Folding, sorting and degradation	RNA degradation	ko03018	groEL, HSPD1; chaperonin GroEL
+HZ10__2091_1	K04077	5. Organismal Systems	5.9 Aging	Longevity regulating pathway - worm	ko04212	groEL, HSPD1; chaperonin GroEL
+HZ10__2091_1	K04077	6. Human Diseases	6.7 Endocrine and metabolic disease	Type I diabetes mellitus	ko04940	groEL, HSPD1; chaperonin GroEL
+HZ10__2091_1	K04077	6. Human Diseases	6.8 Infectious disease: bacterial	Legionellosis	ko05134	groEL, HSPD1; chaperonin GroEL
+HZ10__2091_1	K04077	6. Human Diseases	6.8 Infectious disease: bacterial	Tuberculosis	ko05152	groEL, HSPD1; chaperonin GroEL
+HZ10__2096_1	K02316	2. Genetic Information Processing	2.4 Replication and repair	DNA replication	ko03030	dnaG; DNA primase [EC:2.7.7.101]
+HZ10__2177_1	K03070	4. Cellular Processes	4.4 Cellular community - prokaryotes	Quorum sensing	ko02024	secA; preprotein translocase subunit SecA [EC:7.4.2.8]
+HZ10__2177_1	K03070	2. Genetic Information Processing	2.3 Folding, sorting and degradation	Protein export	ko03060	secA; preprotein translocase subunit SecA [EC:7.4.2.8]
+HZ10__2177_1	K03070	3. Environmental Information Processing	3.1 Membrane transport	Bacterial secretion system	ko03070	secA; preprotein translocase subunit SecA [EC:7.4.2.8]
+HZ10__2184_2	K03092	3. Environmental Information Processing	3.2 Signal transduction	Two-component system	ko02020	rpoN; RNA polymerase sigma-54 factor
+HZ10__2184_2	K03092	4. Cellular Processes	4.4 Cellular community - prokaryotes	Biofilm formation - Vibrio cholerae	ko05111	rpoN; RNA polymerase sigma-54 factor
+HZ10__2202_1	K01613	1. Metabolism	1.3 Lipid metabolism	Glycerophospholipid metabolism	ko00564	psd, PISD; phosphatidylserine decarboxylase [EC:4.1.1.65]
+HZ10__2202_1	K01613	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	psd, PISD; phosphatidylserine decarboxylase [EC:4.1.1.65]
+HZ10__2202_1	K01613	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	psd, PISD; phosphatidylserine decarboxylase [EC:4.1.1.65]
+HZ10__2272_1	K03269	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis	ko00540	lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]
+HZ10__2272_1	K03269	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]
+HZ10__2334_2	K02919	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L36, MRPL36, rpmJ; large subunit ribosomal protein L36
+HZ10__2342_1	K00748	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis	ko00540	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]
+HZ10__2342_1	K00748	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]
+HZ10__2353_4	K02115	1. Metabolism	1.2 Energy metabolism	Oxidative phosphorylation	ko00190	ATPF1G, atpG; F-type H+-transporting ATPase subunit gamma
+HZ10__2353_4	K02115	1. Metabolism	1.2 Energy metabolism	Photosynthesis	ko00195	ATPF1G, atpG; F-type H+-transporting ATPase subunit gamma
+HZ10__2353_4	K02115	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	ATPF1G, atpG; F-type H+-transporting ATPase subunit gamma
+HZ10__2354_1	K00174	1. Metabolism	1.1 Carbohydrate metabolism	Glycolysis / Gluconeogenesis	ko00010	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__2354_1	K00174	1. Metabolism	1.1 Carbohydrate metabolism	Citrate cycle (TCA cycle)	ko00020	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__2354_1	K00174	1. Metabolism	1.1 Carbohydrate metabolism	Pyruvate metabolism	ko00620	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__2354_1	K00174	1. Metabolism	1.1 Carbohydrate metabolism	Butanoate metabolism	ko00650	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__2354_1	K00174	1. Metabolism	1.2 Energy metabolism	Carbon fixation pathways in prokaryotes	ko00720	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__2354_1	K00174	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__2354_1	K00174	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__2354_1	K00174	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__2354_1	K00174	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__2354_1	K00174	1. Metabolism	1.0 Global and overview maps	Carbon metabolism	ko01200	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__2384_1	K01686	1. Metabolism	1.1 Carbohydrate metabolism	Pentose and glucuronate interconversions	ko00040	uxuA; mannonate dehydratase [EC:4.2.1.8]
+HZ10__2384_1	K01686	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	uxuA; mannonate dehydratase [EC:4.2.1.8]
+HZ10__2415_1	K00826	1. Metabolism	1.5 Amino acid metabolism	Cysteine and methionine metabolism	ko00270	E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]
+HZ10__2415_1	K00826	1. Metabolism	1.5 Amino acid metabolism	Valine, leucine and isoleucine degradation	ko00280	E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]
+HZ10__2415_1	K00826	1. Metabolism	1.5 Amino acid metabolism	Valine, leucine and isoleucine biosynthesis	ko00290	E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]
+HZ10__2415_1	K00826	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis	ko00770	E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]
+HZ10__2415_1	K00826	1. Metabolism	1.10 Biosynthesis of other secondary metabolites	Glucosinolate biosynthesis	ko00966	E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]
+HZ10__2415_1	K00826	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]
+HZ10__2415_1	K00826	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]
+HZ10__2415_1	K00826	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]
+HZ10__2415_1	K00826	1. Metabolism	1.0 Global and overview maps	2-Oxocarboxylic acid metabolism	ko01210	E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]
+HZ10__2415_1	K00826	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]
+HZ10__2431_1	K01091	1. Metabolism	1.1 Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism	ko00630	gph; phosphoglycolate phosphatase [EC:3.1.3.18]
+HZ10__2431_1	K01091	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	gph; phosphoglycolate phosphatase [EC:3.1.3.18]
+HZ10__2431_1	K01091	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	gph; phosphoglycolate phosphatase [EC:3.1.3.18]
+HZ10__2431_1	K01091	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	gph; phosphoglycolate phosphatase [EC:3.1.3.18]
+HZ10__2451_2	K00336	1. Metabolism	1.2 Energy metabolism	Oxidative phosphorylation	ko00190	nuoG; NADH-quinone oxidoreductase subunit G [EC:7.1.1.2]
+HZ10__2451_2	K00336	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	nuoG; NADH-quinone oxidoreductase subunit G [EC:7.1.1.2]
+HZ10__2462_2	K01972	2. Genetic Information Processing	2.4 Replication and repair	DNA replication	ko03030	E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]
+HZ10__2462_2	K01972	2. Genetic Information Processing	2.4 Replication and repair	Base excision repair	ko03410	E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]
+HZ10__2462_2	K01972	2. Genetic Information Processing	2.4 Replication and repair	Nucleotide excision repair	ko03420	E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]
+HZ10__2462_2	K01972	2. Genetic Information Processing	2.4 Replication and repair	Mismatch repair	ko03430	E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]
+HZ10__2505_1	K01854	1. Metabolism	1.1 Carbohydrate metabolism	Galactose metabolism	ko00052	glf; UDP-galactopyranose mutase [EC:5.4.99.9]
+HZ10__2505_1	K01854	1. Metabolism	1.1 Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	ko00520	glf; UDP-galactopyranose mutase [EC:5.4.99.9]
+HZ10__2505_1	K01854	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	glf; UDP-galactopyranose mutase [EC:5.4.99.9]
+HZ10__2516_1	K00789	1. Metabolism	1.5 Amino acid metabolism	Cysteine and methionine metabolism	ko00270	metK; S-adenosylmethionine synthetase [EC:2.5.1.6]
+HZ10__2516_1	K00789	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	metK; S-adenosylmethionine synthetase [EC:2.5.1.6]
+HZ10__2516_1	K00789	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	metK; S-adenosylmethionine synthetase [EC:2.5.1.6]
+HZ10__2516_1	K00789	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	metK; S-adenosylmethionine synthetase [EC:2.5.1.6]
+HZ10__2546_3	K01815	1. Metabolism	1.1 Carbohydrate metabolism	Pentose and glucuronate interconversions	ko00040	kduI; 4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase [EC:5.3.1.17]
+HZ10__2546_3	K01815	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	kduI; 4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase [EC:5.3.1.17]
+HZ10__2558_1	K03778	1. Metabolism	1.1 Carbohydrate metabolism	Pyruvate metabolism	ko00620	ldhA; D-lactate dehydrogenase [EC:1.1.1.28]
+HZ10__2558_1	K03778	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	ldhA; D-lactate dehydrogenase [EC:1.1.1.28]
+HZ10__2558_1	K03778	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	ldhA; D-lactate dehydrogenase [EC:1.1.1.28]
+HZ10__2566_1	K21636	1. Metabolism	1.4 Nucleotide metabolism	Purine metabolism	ko00230	nrdD; ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6]
+HZ10__2566_1	K21636	1. Metabolism	1.4 Nucleotide metabolism	Pyrimidine metabolism	ko00240	nrdD; ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6]
+HZ10__2566_1	K21636	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	nrdD; ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6]
+HZ10__2600_1	K01972	2. Genetic Information Processing	2.4 Replication and repair	DNA replication	ko03030	E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]
+HZ10__2600_1	K01972	2. Genetic Information Processing	2.4 Replication and repair	Base excision repair	ko03410	E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]
+HZ10__2600_1	K01972	2. Genetic Information Processing	2.4 Replication and repair	Nucleotide excision repair	ko03420	E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]
+HZ10__2600_1	K01972	2. Genetic Information Processing	2.4 Replication and repair	Mismatch repair	ko03430	E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]
+HZ10__2644_3	K03111	2. Genetic Information Processing	2.4 Replication and repair	DNA replication	ko03030	ssb; single-strand DNA-binding protein
+HZ10__2644_3	K03111	2. Genetic Information Processing	2.4 Replication and repair	Mismatch repair	ko03430	ssb; single-strand DNA-binding protein
+HZ10__2644_3	K03111	2. Genetic Information Processing	2.4 Replication and repair	Homologous recombination	ko03440	ssb; single-strand DNA-binding protein
+HZ10__2648_1	K01823	1. Metabolism	1.9 Metabolism of terpenoids and polyketides	Terpenoid backbone biosynthesis	ko00900	idi, IDI; isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2]
+HZ10__2648_1	K01823	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	idi, IDI; isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2]
+HZ10__2648_1	K01823	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	idi, IDI; isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2]
+HZ10__2648_1	K01823	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	idi, IDI; isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2]
+HZ10__2695_1	K01629	1. Metabolism	1.1 Carbohydrate metabolism	Pentose and glucuronate interconversions	ko00040	rhaD; rhamnulose-1-phosphate aldolase [EC:4.1.2.19]
+HZ10__2695_1	K01629	1. Metabolism	1.1 Carbohydrate metabolism	Fructose and mannose metabolism	ko00051	rhaD; rhamnulose-1-phosphate aldolase [EC:4.1.2.19]
+HZ10__2695_1	K01629	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	rhaD; rhamnulose-1-phosphate aldolase [EC:4.1.2.19]
+HZ10__2695_1	K01629	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	rhaD; rhamnulose-1-phosphate aldolase [EC:4.1.2.19]
+HZ10__2705_5	K10773	2. Genetic Information Processing	2.4 Replication and repair	Base excision repair	ko03410	NTH; endonuclease III [EC:4.2.99.18]
+HZ10__2705_10	K02959	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-S16, MRPS16, rpsP; small subunit ribosomal protein S16
+HZ10__2744_2	K01804	1. Metabolism	1.1 Carbohydrate metabolism	Pentose and glucuronate interconversions	ko00040	araA; L-arabinose isomerase [EC:5.3.1.4]
+HZ10__2744_2	K01804	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	araA; L-arabinose isomerase [EC:5.3.1.4]
+HZ10__2761_1	K03035	2. Genetic Information Processing	2.3 Folding, sorting and degradation	Proteasome	ko03050	PSMD12, RPN5; 26S proteasome regulatory subunit N5
+HZ10__2761_1	K03035	6. Human Diseases	6.9 Infectious disease: viral	Epstein-Barr virus infection	ko05169	PSMD12, RPN5; 26S proteasome regulatory subunit N5
+HZ10__2762_1	K01972	2. Genetic Information Processing	2.4 Replication and repair	DNA replication	ko03030	E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]
+HZ10__2762_1	K01972	2. Genetic Information Processing	2.4 Replication and repair	Base excision repair	ko03410	E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]
+HZ10__2762_1	K01972	2. Genetic Information Processing	2.4 Replication and repair	Nucleotide excision repair	ko03420	E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]
+HZ10__2762_1	K01972	2. Genetic Information Processing	2.4 Replication and repair	Mismatch repair	ko03430	E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]
+HZ10__2763_1	K02078	1. Metabolism	1.10 Biosynthesis of other secondary metabolites	Biosynthesis of various secondary metabolites - part 2 	ko00998	acpP; acyl carrier protein
+HZ10__2763_1	K02078	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	acpP; acyl carrier protein
+HZ10__2763_1	K02078	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	acpP; acyl carrier protein
+HZ10__2763_1	K02078	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	acpP; acyl carrier protein
+HZ10__2769_1	K03038	2. Genetic Information Processing	2.3 Folding, sorting and degradation	Proteasome	ko03050	PSMD7, RPN8; 26S proteasome regulatory subunit N8
+HZ10__2769_1	K03038	6. Human Diseases	6.9 Infectious disease: viral	Epstein-Barr virus infection	ko05169	PSMD7, RPN8; 26S proteasome regulatory subunit N8
+HZ10__2779_2	K02313	3. Environmental Information Processing	3.2 Signal transduction	Two-component system	ko02020	dnaA; chromosomal replication initiator protein
+HZ10__2779_2	K02313	4. Cellular Processes	4.2 Cell growth and death	Cell cycle - Caulobacter	ko04112	dnaA; chromosomal replication initiator protein
+HZ10__2779_3	K02067	3. Environmental Information Processing	3.1 Membrane transport	ABC transporters	ko02010	mlaD, linM; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein
+HZ10__2779_4	K01448	6. Human Diseases	6.11 Drug resistance: antimicrobial	Cationic antimicrobial peptide (CAMP) resistance	ko01503	amiABC; N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+HZ10__2779_5	K01633	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Folate biosynthesis	ko00790	folB; 7,8-dihydroneopterin aldolase/epimerase/oxygenase [EC:4.1.2.25 5.1.99.8 1.13.11.81]
+HZ10__2779_5	K01633	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	folB; 7,8-dihydroneopterin aldolase/epimerase/oxygenase [EC:4.1.2.25 5.1.99.8 1.13.11.81]
+HZ10__2798_2	K03111	2. Genetic Information Processing	2.4 Replication and repair	DNA replication	ko03030	ssb; single-strand DNA-binding protein
+HZ10__2798_2	K03111	2. Genetic Information Processing	2.4 Replication and repair	Mismatch repair	ko03430	ssb; single-strand DNA-binding protein
+HZ10__2798_2	K03111	2. Genetic Information Processing	2.4 Replication and repair	Homologous recombination	ko03440	ssb; single-strand DNA-binding protein
+HZ10__2830_1	K02358	5. Organismal Systems	5.10 Environmental adaptation	Plant-pathogen interaction	ko04626	tuf, TUFM; elongation factor Tu
+HZ10__2833_2	K00075	1. Metabolism	1.1 Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	ko00520	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]
+HZ10__2833_2	K00075	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis	ko00550	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]
+HZ10__2833_2	K00075	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]
+HZ10__2833_4	K01889	2. Genetic Information Processing	2.2 Translation	Aminoacyl-tRNA biosynthesis	ko00970	FARSA, pheS; phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+HZ10__2841_1	K15923	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Other glycan degradation	ko00511	AXY8, FUC95A, afcA; alpha-L-fucosidase 2 [EC:3.2.1.51]
+HZ10__2860_2	K02886	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L2, MRPL2, rplB; large subunit ribosomal protein L2
+HZ10__2860_3	K02892	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L23, MRPL23, rplW; large subunit ribosomal protein L23
+HZ10__2864_1	K15371	1. Metabolism	1.5 Amino acid metabolism	Arginine biosynthesis	ko00220	GDH2; glutamate dehydrogenase [EC:1.4.1.2]
+HZ10__2864_1	K15371	1. Metabolism	1.5 Amino acid metabolism	Alanine, aspartate and glutamate metabolism	ko00250	GDH2; glutamate dehydrogenase [EC:1.4.1.2]
+HZ10__2864_1	K15371	1. Metabolism	1.6 Metabolism of other amino acids	Taurine and hypotaurine metabolism	ko00430	GDH2; glutamate dehydrogenase [EC:1.4.1.2]
+HZ10__2864_1	K15371	1. Metabolism	1.2 Energy metabolism	Nitrogen metabolism	ko00910	GDH2; glutamate dehydrogenase [EC:1.4.1.2]
+HZ10__2864_1	K15371	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	GDH2; glutamate dehydrogenase [EC:1.4.1.2]
+HZ10__2864_1	K15371	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	GDH2; glutamate dehydrogenase [EC:1.4.1.2]
+HZ10__2887_1	K06897	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Folate biosynthesis	ko00790	K06897; 7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase [EC:2.5.1.105]
+HZ10__2958_1	K03551	2. Genetic Information Processing	2.4 Replication and repair	Homologous recombination	ko03440	ruvB; holliday junction DNA helicase RuvB [EC:3.6.4.12]
+HZ10__3003_1	K02864	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L10, MRPL10, rplJ; large subunit ribosomal protein L10
+HZ10__3004_1	K03531	4. Cellular Processes	4.2 Cell growth and death	Cell cycle - Caulobacter	ko04112	ftsZ; cell division protein FtsZ
+HZ10__3029_1	K06223	2. Genetic Information Processing	2.4 Replication and repair	Mismatch repair	ko03430	dam; DNA adenine methylase [EC:2.1.1.72]
+HZ10__3061_1	K00962	2. Genetic Information Processing	2.3 Folding, sorting and degradation	RNA degradation	ko03018	pnp, PNPT1; polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+HZ10__3062_2	K02946	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-S10, MRPS10, rpsJ; small subunit ribosomal protein S10
+HZ10__3065_4	K15772	3. Environmental Information Processing	3.1 Membrane transport	ABC transporters	ko02010	ganQ; arabinogalactan oligomer / maltooligosaccharide transport system permease protein
+HZ10__3065_5	K15771	3. Environmental Information Processing	3.1 Membrane transport	ABC transporters	ko02010	ganP; arabinogalactan oligomer / maltooligosaccharide transport system permease protein
+HZ10__3092_1	K02922	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L37e, RPL37; large subunit ribosomal protein L37e
+HZ10__3126_1	K12308	1. Metabolism	1.1 Carbohydrate metabolism	Galactose metabolism	ko00052	bgaB, lacA; beta-galactosidase [EC:3.2.1.23]
+HZ10__3162_3	K23005	1. Metabolism	1.1 Carbohydrate metabolism	Ascorbate and aldarate metabolism	ko00053	lgaC; L-galactonate 5-dehydrogenase [EC:1.1.1.414]
+HZ10__3162_3	K23005	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	lgaC; L-galactonate 5-dehydrogenase [EC:1.1.1.414]
+HZ10__3184_1	K00088	1. Metabolism	1.4 Nucleotide metabolism	Purine metabolism	ko00230	IMPDH, guaB; IMP dehydrogenase [EC:1.1.1.205]
+HZ10__3184_1	K00088	1. Metabolism	1.11 Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes	ko00983	IMPDH, guaB; IMP dehydrogenase [EC:1.1.1.205]
+HZ10__3184_1	K00088	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	IMPDH, guaB; IMP dehydrogenase [EC:1.1.1.205]
+HZ10__3184_1	K00088	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	IMPDH, guaB; IMP dehydrogenase [EC:1.1.1.205]
+HZ10__3199_3	K23005	1. Metabolism	1.1 Carbohydrate metabolism	Ascorbate and aldarate metabolism	ko00053	lgaC; L-galactonate 5-dehydrogenase [EC:1.1.1.414]
+HZ10__3199_3	K23005	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	lgaC; L-galactonate 5-dehydrogenase [EC:1.1.1.414]
+HZ10__3217_4	K00950	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Folate biosynthesis	ko00790	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3]
+HZ10__3217_4	K00950	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3]
+HZ10__3290_2	K02563	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis	ko00550	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]
+HZ10__3290_2	K02563	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]
+HZ10__3290_2	K02563	6. Human Diseases	6.11 Drug resistance: antimicrobial	Vancomycin resistance	ko01502	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]
+HZ10__3290_2	K02563	4. Cellular Processes	4.2 Cell growth and death	Cell cycle - Caulobacter	ko04112	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]
+HZ10__3290_4	K01925	1. Metabolism	1.6 Metabolism of other amino acids	D-Glutamine and D-glutamate metabolism	ko00471	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]
+HZ10__3290_4	K01925	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis	ko00550	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]
+HZ10__3290_4	K01925	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]
+HZ10__3311_1	K01711	1. Metabolism	1.1 Carbohydrate metabolism	Fructose and mannose metabolism	ko00051	gmd, GMDS; GDPmannose 4,6-dehydratase [EC:4.2.1.47]
+HZ10__3311_1	K01711	1. Metabolism	1.1 Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	ko00520	gmd, GMDS; GDPmannose 4,6-dehydratase [EC:4.2.1.47]
+HZ10__3311_1	K01711	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	gmd, GMDS; GDPmannose 4,6-dehydratase [EC:4.2.1.47]
+HZ10__3328_1	K02863	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L1, MRPL1, rplA; large subunit ribosomal protein L1
+HZ10__3391_2	K05776	3. Environmental Information Processing	3.1 Membrane transport	ABC transporters	ko02010	modF; molybdate transport system ATP-binding protein
+HZ10__3424_2	K03101	2. Genetic Information Processing	2.3 Folding, sorting and degradation	Protein export	ko03060	lspA; signal peptidase II [EC:3.4.23.36]
+HZ10__3427_4	K01719	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism	ko00860	hemD, UROS; uroporphyrinogen-III synthase [EC:4.2.1.75]
+HZ10__3427_4	K01719	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	hemD, UROS; uroporphyrinogen-III synthase [EC:4.2.1.75]
+HZ10__3427_4	K01719	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	hemD, UROS; uroporphyrinogen-III synthase [EC:4.2.1.75]
+HZ10__3427_4	K01719	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	hemD, UROS; uroporphyrinogen-III synthase [EC:4.2.1.75]
+HZ10__3464_1	K06269	2. Genetic Information Processing	2.2 Translation	mRNA surveillance pathway	ko03015	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	3. Environmental Information Processing	3.2 Signal transduction	cGMP-PKG signaling pathway	ko04022	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	3. Environmental Information Processing	3.2 Signal transduction	cAMP signaling pathway	ko04024	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	4. Cellular Processes	4.2 Cell growth and death	Meiosis - yeast	ko04113	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	4. Cellular Processes	4.2 Cell growth and death	Oocyte meiosis	ko04114	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	4. Cellular Processes	4.2 Cell growth and death	Cellular senescence	ko04218	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	5. Organismal Systems	5.3 Circulatory system	Adrenergic signaling in cardiomyocytes	ko04261	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	5. Organismal Systems	5.3 Circulatory system	Vascular smooth muscle contraction	ko04270	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	3. Environmental Information Processing	3.2 Signal transduction	Hippo signaling pathway	ko04390	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	4. Cellular Processes	4.3 Cellular community - eukaryotes	Focal adhesion	ko04510	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	5. Organismal Systems	5.1 Immune system	Platelet activation	ko04611	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	5. Organismal Systems	5.6 Nervous system	Long-term potentiation	ko04720	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	5. Organismal Systems	5.6 Nervous system	Dopaminergic synapse	ko04728	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	5. Organismal Systems	5.7 Sensory system	Inflammatory mediator regulation of TRP channels	ko04750	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	4. Cellular Processes	4.5 Cell motility	Regulation of actin cytoskeleton	ko04810	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	5. Organismal Systems	5.2 Endocrine system	Insulin signaling pathway	ko04910	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	5. Organismal Systems	5.2 Endocrine system	Oxytocin signaling pathway	ko04921	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	6. Human Diseases	6.7 Endocrine and metabolic disease	Insulin resistance	ko04931	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	6. Human Diseases	6.5 Substance dependence	Amphetamine addiction	ko05031	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	6. Human Diseases	6.5 Substance dependence	Alcoholism	ko05034	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	6. Human Diseases	6.9 Infectious disease: viral	Herpes simplex virus 1 infection	ko05168	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3464_1	K06269	6. Human Diseases	6.1 Cancer: overview	Proteoglycans in cancer	ko05205	PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+HZ10__3474_1	K02155	1. Metabolism	1.2 Energy metabolism	Oxidative phosphorylation	ko00190	ATPeV0C, ATP6L; V-type H+-transporting ATPase 16kDa proteolipid subunit
+HZ10__3474_1	K02155	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	ATPeV0C, ATP6L; V-type H+-transporting ATPase 16kDa proteolipid subunit
+HZ10__3474_1	K02155	4. Cellular Processes	4.1 Transport and catabolism	Lysosome	ko04142	ATPeV0C, ATP6L; V-type H+-transporting ATPase 16kDa proteolipid subunit
+HZ10__3474_1	K02155	4. Cellular Processes	4.1 Transport and catabolism	Phagosome	ko04145	ATPeV0C, ATP6L; V-type H+-transporting ATPase 16kDa proteolipid subunit
+HZ10__3474_1	K02155	5. Organismal Systems	5.6 Nervous system	Synaptic vesicle cycle	ko04721	ATPeV0C, ATP6L; V-type H+-transporting ATPase 16kDa proteolipid subunit
+HZ10__3474_1	K02155	5. Organismal Systems	5.5 Excretory system	Collecting duct acid secretion	ko04966	ATPeV0C, ATP6L; V-type H+-transporting ATPase 16kDa proteolipid subunit
+HZ10__3474_1	K02155	6. Human Diseases	6.8 Infectious disease: bacterial	Vibrio cholerae infection	ko05110	ATPeV0C, ATP6L; V-type H+-transporting ATPase 16kDa proteolipid subunit
+HZ10__3474_1	K02155	6. Human Diseases	6.8 Infectious disease: bacterial	Epithelial cell signaling in Helicobacter pylori infection	ko05120	ATPeV0C, ATP6L; V-type H+-transporting ATPase 16kDa proteolipid subunit
+HZ10__3474_1	K02155	6. Human Diseases	6.8 Infectious disease: bacterial	Tuberculosis	ko05152	ATPeV0C, ATP6L; V-type H+-transporting ATPase 16kDa proteolipid subunit
+HZ10__3474_1	K02155	6. Human Diseases	6.9 Infectious disease: viral	Human papillomavirus infection	ko05165	ATPeV0C, ATP6L; V-type H+-transporting ATPase 16kDa proteolipid subunit
+HZ10__3474_1	K02155	6. Human Diseases	6.3 Immune disease	Rheumatoid arthritis	ko05323	ATPeV0C, ATP6L; V-type H+-transporting ATPase 16kDa proteolipid subunit
+HZ10__3481_2	K00674	1. Metabolism	1.5 Amino acid metabolism	Lysine biosynthesis	ko00300	dapD; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]
+HZ10__3481_2	K00674	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	dapD; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]
+HZ10__3481_2	K00674	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	dapD; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]
+HZ10__3481_2	K00674	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	dapD; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]
+HZ10__3484_1	K01872	2. Genetic Information Processing	2.2 Translation	Aminoacyl-tRNA biosynthesis	ko00970	AARS, alaS; alanyl-tRNA synthetase [EC:6.1.1.7]
+HZ10__3497_1	K11529	1. Metabolism	1.1 Carbohydrate metabolism	Pentose phosphate pathway	ko00030	gck, gckA, GLYCTK; glycerate 2-kinase [EC:2.7.1.165]
+HZ10__3497_1	K11529	1. Metabolism	1.5 Amino acid metabolism	Glycine, serine and threonine metabolism	ko00260	gck, gckA, GLYCTK; glycerate 2-kinase [EC:2.7.1.165]
+HZ10__3497_1	K11529	1. Metabolism	1.3 Lipid metabolism	Glycerolipid metabolism	ko00561	gck, gckA, GLYCTK; glycerate 2-kinase [EC:2.7.1.165]
+HZ10__3497_1	K11529	1. Metabolism	1.1 Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism	ko00630	gck, gckA, GLYCTK; glycerate 2-kinase [EC:2.7.1.165]
+HZ10__3497_1	K11529	1. Metabolism	1.2 Energy metabolism	Methane metabolism	ko00680	gck, gckA, GLYCTK; glycerate 2-kinase [EC:2.7.1.165]
+HZ10__3497_1	K11529	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	gck, gckA, GLYCTK; glycerate 2-kinase [EC:2.7.1.165]
+HZ10__3497_1	K11529	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	gck, gckA, GLYCTK; glycerate 2-kinase [EC:2.7.1.165]
+HZ10__3497_1	K11529	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	gck, gckA, GLYCTK; glycerate 2-kinase [EC:2.7.1.165]
+HZ10__3497_1	K11529	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	gck, gckA, GLYCTK; glycerate 2-kinase [EC:2.7.1.165]
+HZ10__3497_1	K11529	1. Metabolism	1.0 Global and overview maps	Carbon metabolism	ko01200	gck, gckA, GLYCTK; glycerate 2-kinase [EC:2.7.1.165]
+HZ10__3514_1	K00856	1. Metabolism	1.4 Nucleotide metabolism	Purine metabolism	ko00230	E2.7.1.20, ADK; adenosine kinase [EC:2.7.1.20]
+HZ10__3514_1	K00856	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	E2.7.1.20, ADK; adenosine kinase [EC:2.7.1.20]
+HZ10__3522_2	K02109	1. Metabolism	1.2 Energy metabolism	Oxidative phosphorylation	ko00190	ATPF0B, atpF; F-type H+-transporting ATPase subunit b
+HZ10__3522_2	K02109	1. Metabolism	1.2 Energy metabolism	Photosynthesis	ko00195	ATPF0B, atpF; F-type H+-transporting ATPase subunit b
+HZ10__3522_2	K02109	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	ATPF0B, atpF; F-type H+-transporting ATPase subunit b
+HZ10__3531_1	K11443	3. Environmental Information Processing	3.2 Signal transduction	Two-component system	ko02020	divK; two-component system, cell cycle response regulator DivK
+HZ10__3531_1	K11443	4. Cellular Processes	4.2 Cell growth and death	Cell cycle - Caulobacter	ko04112	divK; two-component system, cell cycle response regulator DivK
+HZ10__3645_2	K01489	1. Metabolism	1.4 Nucleotide metabolism	Pyrimidine metabolism	ko00240	cdd, CDA; cytidine deaminase [EC:3.5.4.5]
+HZ10__3645_2	K01489	1. Metabolism	1.11 Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes	ko00983	cdd, CDA; cytidine deaminase [EC:3.5.4.5]
+HZ10__3645_2	K01489	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	cdd, CDA; cytidine deaminase [EC:3.5.4.5]
+HZ10__3652_1	K00940	1. Metabolism	1.4 Nucleotide metabolism	Purine metabolism	ko00230	ndk, NME; nucleoside-diphosphate kinase [EC:2.7.4.6]
+HZ10__3652_1	K00940	1. Metabolism	1.4 Nucleotide metabolism	Pyrimidine metabolism	ko00240	ndk, NME; nucleoside-diphosphate kinase [EC:2.7.4.6]
+HZ10__3652_1	K00940	1. Metabolism	1.11 Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes	ko00983	ndk, NME; nucleoside-diphosphate kinase [EC:2.7.4.6]
+HZ10__3652_1	K00940	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	ndk, NME; nucleoside-diphosphate kinase [EC:2.7.4.6]
+HZ10__3652_1	K00940	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	ndk, NME; nucleoside-diphosphate kinase [EC:2.7.4.6]
+HZ10__3652_1	K00940	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	ndk, NME; nucleoside-diphosphate kinase [EC:2.7.4.6]
+HZ10__3652_1	K00940	3. Environmental Information Processing	3.2 Signal transduction	MAPK signaling pathway - plant	ko04016	ndk, NME; nucleoside-diphosphate kinase [EC:2.7.4.6]
+HZ10__3683_1	K03149	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Thiamine metabolism	ko00730	thiG; thiazole synthase [EC:2.8.1.10]
+HZ10__3683_1	K03149	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	thiG; thiazole synthase [EC:2.8.1.10]
+HZ10__3728_1	K01735	1. Metabolism	1.5 Amino acid metabolism	Phenylalanine, tyrosine and tryptophan biosynthesis	ko00400	aroB; 3-dehydroquinate synthase [EC:4.2.3.4]
+HZ10__3728_1	K01735	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	aroB; 3-dehydroquinate synthase [EC:4.2.3.4]
+HZ10__3728_1	K01735	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	aroB; 3-dehydroquinate synthase [EC:4.2.3.4]
+HZ10__3728_1	K01735	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	aroB; 3-dehydroquinate synthase [EC:4.2.3.4]
+HZ10__3728_1	K01735	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	aroB; 3-dehydroquinate synthase [EC:4.2.3.4]
+HZ10__3749_1	K01176	1. Metabolism	1.1 Carbohydrate metabolism	Starch and sucrose metabolism	ko00500	AMY, amyA, malS; alpha-amylase [EC:3.2.1.1]
+HZ10__3749_1	K01176	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	AMY, amyA, malS; alpha-amylase [EC:3.2.1.1]
+HZ10__3749_1	K01176	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	AMY, amyA, malS; alpha-amylase [EC:3.2.1.1]
+HZ10__3749_1	K01176	5. Organismal Systems	5.4 Digestive system	Pancreatic secretion	ko04972	AMY, amyA, malS; alpha-amylase [EC:3.2.1.1]
+HZ10__3749_1	K01176	5. Organismal Systems	5.4 Digestive system	Carbohydrate digestion and absorption	ko04973	AMY, amyA, malS; alpha-amylase [EC:3.2.1.1]
+HZ10__3761_1	K00789	1. Metabolism	1.5 Amino acid metabolism	Cysteine and methionine metabolism	ko00270	metK; S-adenosylmethionine synthetase [EC:2.5.1.6]
+HZ10__3761_1	K00789	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	metK; S-adenosylmethionine synthetase [EC:2.5.1.6]
+HZ10__3761_1	K00789	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	metK; S-adenosylmethionine synthetase [EC:2.5.1.6]
+HZ10__3761_1	K00789	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	metK; S-adenosylmethionine synthetase [EC:2.5.1.6]
+HZ10__3767_7	K20968	4. Cellular Processes	4.4 Cellular community - prokaryotes	Biofilm formation - Pseudomonas aeruginosa	ko02025	exsA; AraC family transcriptional regulator, exoenzyme S synthesis regulatory protein ExsA
+HZ10__3819_1	K00766	1. Metabolism	1.5 Amino acid metabolism	Phenylalanine, tyrosine and tryptophan biosynthesis	ko00400	trpD; anthranilate phosphoribosyltransferase [EC:2.4.2.18]
+HZ10__3819_1	K00766	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	trpD; anthranilate phosphoribosyltransferase [EC:2.4.2.18]
+HZ10__3819_1	K00766	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	trpD; anthranilate phosphoribosyltransferase [EC:2.4.2.18]
+HZ10__3819_1	K00766	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	trpD; anthranilate phosphoribosyltransferase [EC:2.4.2.18]
+HZ10__3819_1	K00766	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	trpD; anthranilate phosphoribosyltransferase [EC:2.4.2.18]
+HZ10__3837_1	K02189	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism	ko00860	cbiG; cobalt-precorrin 5A hydrolase [EC:3.7.1.12]
+HZ10__3837_1	K02189	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	cbiG; cobalt-precorrin 5A hydrolase [EC:3.7.1.12]
+HZ10__3843_2	K01719	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism	ko00860	hemD, UROS; uroporphyrinogen-III synthase [EC:4.2.1.75]
+HZ10__3843_2	K01719	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	hemD, UROS; uroporphyrinogen-III synthase [EC:4.2.1.75]
+HZ10__3843_2	K01719	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	hemD, UROS; uroporphyrinogen-III synthase [EC:4.2.1.75]
+HZ10__3843_2	K01719	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	hemD, UROS; uroporphyrinogen-III synthase [EC:4.2.1.75]
+HZ10__3857_1	K01880	2. Genetic Information Processing	2.2 Translation	Aminoacyl-tRNA biosynthesis	ko00970	GARS, glyS1; glycyl-tRNA synthetase [EC:6.1.1.14]
+HZ10__3865_4	K03111	2. Genetic Information Processing	2.4 Replication and repair	DNA replication	ko03030	ssb; single-strand DNA-binding protein
+HZ10__3865_4	K03111	2. Genetic Information Processing	2.4 Replication and repair	Mismatch repair	ko03430	ssb; single-strand DNA-binding protein
+HZ10__3865_4	K03111	2. Genetic Information Processing	2.4 Replication and repair	Homologous recombination	ko03440	ssb; single-strand DNA-binding protein
+HZ10__3898_1	K01915	1. Metabolism	1.5 Amino acid metabolism	Arginine biosynthesis	ko00220	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]
+HZ10__3898_1	K01915	1. Metabolism	1.5 Amino acid metabolism	Alanine, aspartate and glutamate metabolism	ko00250	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]
+HZ10__3898_1	K01915	1. Metabolism	1.1 Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism	ko00630	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]
+HZ10__3898_1	K01915	1. Metabolism	1.2 Energy metabolism	Nitrogen metabolism	ko00910	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]
+HZ10__3898_1	K01915	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]
+HZ10__3898_1	K01915	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]
+HZ10__3898_1	K01915	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]
+HZ10__3898_1	K01915	3. Environmental Information Processing	3.2 Signal transduction	Two-component system	ko02020	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]
+HZ10__3898_1	K01915	4. Cellular Processes	4.2 Cell growth and death	Necroptosis	ko04217	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]
+HZ10__3898_1	K01915	5. Organismal Systems	5.6 Nervous system	Glutamatergic synapse	ko04724	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]
+HZ10__3898_1	K01915	5. Organismal Systems	5.6 Nervous system	GABAergic synapse	ko04727	glnA, GLUL; glutamine synthetase [EC:6.3.1.2]
+HZ10__3921_1	K10773	2. Genetic Information Processing	2.4 Replication and repair	Base excision repair	ko03410	NTH; endonuclease III [EC:4.2.99.18]
+HZ10__3972_1	K01945	1. Metabolism	1.4 Nucleotide metabolism	Purine metabolism	ko00230	purD; phosphoribosylamine---glycine ligase [EC:6.3.4.13]
+HZ10__3972_1	K01945	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	purD; phosphoribosylamine---glycine ligase [EC:6.3.4.13]
+HZ10__3972_1	K01945	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	purD; phosphoribosylamine---glycine ligase [EC:6.3.4.13]
+HZ10__3972_1	K01945	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	purD; phosphoribosylamine---glycine ligase [EC:6.3.4.13]
+HZ10__3975_1	K01997	3. Environmental Information Processing	3.1 Membrane transport	ABC transporters	ko02010	livH; branched-chain amino acid transport system permease protein
+HZ10__3975_1	K01997	4. Cellular Processes	4.4 Cellular community - prokaryotes	Quorum sensing	ko02024	livH; branched-chain amino acid transport system permease protein
+HZ10__3982_1	K02883	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L18e, RPL18; large subunit ribosomal protein L18e
+HZ10__3993_1	K02968	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-S20, rpsT; small subunit ribosomal protein S20
+HZ10__3994_1	K02109	1. Metabolism	1.2 Energy metabolism	Oxidative phosphorylation	ko00190	ATPF0B, atpF; F-type H+-transporting ATPase subunit b
+HZ10__3994_1	K02109	1. Metabolism	1.2 Energy metabolism	Photosynthesis	ko00195	ATPF0B, atpF; F-type H+-transporting ATPase subunit b
+HZ10__3994_1	K02109	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	ATPF0B, atpF; F-type H+-transporting ATPase subunit b
+HZ10__4001_1	K01095	1. Metabolism	1.3 Lipid metabolism	Glycerophospholipid metabolism	ko00564	pgpA; phosphatidylglycerophosphatase A [EC:3.1.3.27]
+HZ10__4001_1	K01095	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	pgpA; phosphatidylglycerophosphatase A [EC:3.1.3.27]
+HZ10__4001_2	K01934	1. Metabolism	1.8 Metabolism of cofactors and vitamins	One carbon pool by folate	ko00670	MTHFS; 5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]
+HZ10__4001_2	K01934	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	MTHFS; 5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]
+HZ10__4017_1	K01091	1. Metabolism	1.1 Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism	ko00630	gph; phosphoglycolate phosphatase [EC:3.1.3.18]
+HZ10__4017_1	K01091	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	gph; phosphoglycolate phosphatase [EC:3.1.3.18]
+HZ10__4017_1	K01091	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	gph; phosphoglycolate phosphatase [EC:3.1.3.18]
+HZ10__4017_1	K01091	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	gph; phosphoglycolate phosphatase [EC:3.1.3.18]
+HZ10__4042_2	K00790	1. Metabolism	1.1 Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	ko00520	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]
+HZ10__4042_2	K00790	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis	ko00550	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]
+HZ10__4042_2	K00790	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]
+HZ10__4060_2	K00981	1. Metabolism	1.3 Lipid metabolism	Glycerophospholipid metabolism	ko00564	E2.7.7.41, CDS1, CDS2, cdsA; phosphatidate cytidylyltransferase [EC:2.7.7.41]
+HZ10__4060_2	K00981	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	E2.7.7.41, CDS1, CDS2, cdsA; phosphatidate cytidylyltransferase [EC:2.7.7.41]
+HZ10__4060_2	K00981	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	E2.7.7.41, CDS1, CDS2, cdsA; phosphatidate cytidylyltransferase [EC:2.7.7.41]
+HZ10__4060_2	K00981	3. Environmental Information Processing	3.2 Signal transduction	Phosphatidylinositol signaling system	ko04070	E2.7.7.41, CDS1, CDS2, cdsA; phosphatidate cytidylyltransferase [EC:2.7.7.41]
+HZ10__4069_2	K00791	1. Metabolism	1.9 Metabolism of terpenoids and polyketides	Zeatin biosynthesis	ko00908	miaA, TRIT1; tRNA dimethylallyltransferase [EC:2.5.1.75]
+HZ10__4069_2	K00791	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	miaA, TRIT1; tRNA dimethylallyltransferase [EC:2.5.1.75]
+HZ10__4069_2	K00791	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	miaA, TRIT1; tRNA dimethylallyltransferase [EC:2.5.1.75]
+HZ10__4069_3	K00677	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis	ko00540	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]
+HZ10__4069_3	K00677	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]
+HZ10__4069_3	K00677	6. Human Diseases	6.11 Drug resistance: antimicrobial	Cationic antimicrobial peptide (CAMP) resistance	ko01503	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]
+HZ10__4069_4	K16363	1. Metabolism	1.3 Lipid metabolism	Fatty acid biosynthesis	ko00061	lpxC-fabZ; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:3.5.1.108 4.2.1.59]
+HZ10__4069_4	K16363	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis	ko00540	lpxC-fabZ; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:3.5.1.108 4.2.1.59]
+HZ10__4069_4	K16363	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	lpxC-fabZ; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:3.5.1.108 4.2.1.59]
+HZ10__4069_4	K16363	1. Metabolism	1.0 Global and overview maps	Fatty acid metabolism	ko01212	lpxC-fabZ; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:3.5.1.108 4.2.1.59]
+HZ10__4069_5	K02536	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis	ko00540	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]
+HZ10__4069_5	K02536	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]
+HZ10__4069_7	K01591	1. Metabolism	1.4 Nucleotide metabolism	Pyrimidine metabolism	ko00240	pyrF; orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]
+HZ10__4069_7	K01591	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	pyrF; orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]
+HZ10__4081_2	K02889	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L21e, RPL21; large subunit ribosomal protein L21e
+HZ10__4107_1	K01805	1. Metabolism	1.1 Carbohydrate metabolism	Pentose and glucuronate interconversions	ko00040	xylA; xylose isomerase [EC:5.3.1.5]
+HZ10__4107_1	K01805	1. Metabolism	1.1 Carbohydrate metabolism	Fructose and mannose metabolism	ko00051	xylA; xylose isomerase [EC:5.3.1.5]
+HZ10__4107_1	K01805	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	xylA; xylose isomerase [EC:5.3.1.5]
+HZ10__4132_2	K13019	1. Metabolism	1.1 Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	ko00520	wbpI, wlbD; UDP-GlcNAc3NAcA epimerase [EC:5.1.3.23]
+HZ10__4132_2	K13019	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	wbpI, wlbD; UDP-GlcNAc3NAcA epimerase [EC:5.1.3.23]
+HZ10__4134_1	K00895	1. Metabolism	1.1 Carbohydrate metabolism	Glycolysis / Gluconeogenesis	ko00010	pfp, PFP; diphosphate-dependent phosphofructokinase [EC:2.7.1.90]
+HZ10__4134_1	K00895	1. Metabolism	1.1 Carbohydrate metabolism	Pentose phosphate pathway	ko00030	pfp, PFP; diphosphate-dependent phosphofructokinase [EC:2.7.1.90]
+HZ10__4134_1	K00895	1. Metabolism	1.1 Carbohydrate metabolism	Fructose and mannose metabolism	ko00051	pfp, PFP; diphosphate-dependent phosphofructokinase [EC:2.7.1.90]
+HZ10__4134_1	K00895	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	pfp, PFP; diphosphate-dependent phosphofructokinase [EC:2.7.1.90]
+HZ10__4134_1	K00895	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	pfp, PFP; diphosphate-dependent phosphofructokinase [EC:2.7.1.90]
+HZ10__4134_1	K00895	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	pfp, PFP; diphosphate-dependent phosphofructokinase [EC:2.7.1.90]
+HZ10__4134_1	K00895	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	pfp, PFP; diphosphate-dependent phosphofructokinase [EC:2.7.1.90]
+HZ10__4135_1	K00973	1. Metabolism	1.10 Biosynthesis of other secondary metabolites	Streptomycin biosynthesis	ko00521	rfbA, rmlA, rffH; glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]
+HZ10__4135_1	K00973	1. Metabolism	1.9 Metabolism of terpenoids and polyketides	Polyketide sugar unit biosynthesis	ko00523	rfbA, rmlA, rffH; glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]
+HZ10__4135_1	K00973	1. Metabolism	1.10 Biosynthesis of other secondary metabolites	Acarbose and validamycin biosynthesis	ko00525	rfbA, rmlA, rffH; glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]
+HZ10__4135_1	K00973	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	rfbA, rmlA, rffH; glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]
+HZ10__4135_1	K00973	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	rfbA, rmlA, rffH; glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]
+HZ10__4135_1	K00973	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	rfbA, rmlA, rffH; glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]
+HZ10__4151_3	K05776	3. Environmental Information Processing	3.1 Membrane transport	ABC transporters	ko02010	modF; molybdate transport system ATP-binding protein
+HZ10__4151_4	K01159	2. Genetic Information Processing	2.4 Replication and repair	Homologous recombination	ko03440	ruvC; crossover junction endodeoxyribonuclease RuvC [EC:3.1.22.4]
+HZ10__4166_1	K06920	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Folate biosynthesis	ko00790	queC; 7-cyano-7-deazaguanine synthase [EC:6.3.4.20]
+HZ10__4166_1	K06920	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	queC; 7-cyano-7-deazaguanine synthase [EC:6.3.4.20]
+HZ10__4179_1	K01520	1. Metabolism	1.4 Nucleotide metabolism	Pyrimidine metabolism	ko00240	dut, DUT; dUTP pyrophosphatase [EC:3.6.1.23]
+HZ10__4179_1	K01520	1. Metabolism	1.11 Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes	ko00983	dut, DUT; dUTP pyrophosphatase [EC:3.6.1.23]
+HZ10__4179_1	K01520	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	dut, DUT; dUTP pyrophosphatase [EC:3.6.1.23]
+HZ10__4187_2	K08968	1. Metabolism	1.5 Amino acid metabolism	Cysteine and methionine metabolism	ko00270	msrC; L-methionine (R)-S-oxide reductase [EC:1.8.4.14]
+HZ10__4202_1	K03575	2. Genetic Information Processing	2.4 Replication and repair	Base excision repair	ko03410	mutY; A/G-specific adenine glycosylase [EC:3.2.2.31]
+HZ10__4312_3	K14155	1. Metabolism	1.5 Amino acid metabolism	Cysteine and methionine metabolism	ko00270	patB, malY; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+HZ10__4312_3	K14155	1. Metabolism	1.6 Metabolism of other amino acids	Selenocompound metabolism	ko00450	patB, malY; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+HZ10__4312_3	K14155	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	patB, malY; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+HZ10__4312_3	K14155	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	patB, malY; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+HZ10__4312_3	K14155	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	patB, malY; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+HZ10__4318_1	K01875	2. Genetic Information Processing	2.2 Translation	Aminoacyl-tRNA biosynthesis	ko00970	SARS, serS; seryl-tRNA synthetase [EC:6.1.1.11]
+HZ10__4390_2	K03147	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Thiamine metabolism	ko00730	thiC; phosphomethylpyrimidine synthase [EC:4.1.99.17]
+HZ10__4390_2	K03147	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	thiC; phosphomethylpyrimidine synthase [EC:4.1.99.17]
+HZ10__4416_2	K01737	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Folate biosynthesis	ko00790	queD, ptpS, PTS; 6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]
+HZ10__4416_2	K01737	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	queD, ptpS, PTS; 6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]
+HZ10__4420_1	K02232	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism	ko00860	cobQ, cbiP; adenosylcobyric acid synthase [EC:6.3.5.10]
+HZ10__4420_1	K02232	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	cobQ, cbiP; adenosylcobyric acid synthase [EC:6.3.5.10]
+HZ10__4421_1	K00950	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Folate biosynthesis	ko00790	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3]
+HZ10__4421_1	K00950	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3]
+HZ10__4453_1	K09903	1. Metabolism	1.4 Nucleotide metabolism	Pyrimidine metabolism	ko00240	pyrH; uridylate kinase [EC:2.7.4.22]
+HZ10__4453_1	K09903	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	pyrH; uridylate kinase [EC:2.7.4.22]
+HZ10__4457_1	K03544	4. Cellular Processes	4.2 Cell growth and death	Cell cycle - Caulobacter	ko04112	clpX, CLPX; ATP-dependent Clp protease ATP-binding subunit ClpX
+HZ10__4458_1	K03210	4. Cellular Processes	4.4 Cellular community - prokaryotes	Quorum sensing	ko02024	yajC; preprotein translocase subunit YajC
+HZ10__4458_1	K03210	2. Genetic Information Processing	2.3 Folding, sorting and degradation	Protein export	ko03060	yajC; preprotein translocase subunit YajC
+HZ10__4458_1	K03210	3. Environmental Information Processing	3.1 Membrane transport	Bacterial secretion system	ko03070	yajC; preprotein translocase subunit YajC
+HZ10__4470_2	K02114	1. Metabolism	1.2 Energy metabolism	Oxidative phosphorylation	ko00190	ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon
+HZ10__4470_2	K02114	1. Metabolism	1.2 Energy metabolism	Photosynthesis	ko00195	ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon
+HZ10__4470_2	K02114	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon
+HZ10__4631_2	K02884	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L19, MRPL19, rplS; large subunit ribosomal protein L19
+HZ10__4632_1	K04077	2. Genetic Information Processing	2.3 Folding, sorting and degradation	RNA degradation	ko03018	groEL, HSPD1; chaperonin GroEL
+HZ10__4632_1	K04077	5. Organismal Systems	5.9 Aging	Longevity regulating pathway - worm	ko04212	groEL, HSPD1; chaperonin GroEL
+HZ10__4632_1	K04077	6. Human Diseases	6.7 Endocrine and metabolic disease	Type I diabetes mellitus	ko04940	groEL, HSPD1; chaperonin GroEL
+HZ10__4632_1	K04077	6. Human Diseases	6.8 Infectious disease: bacterial	Legionellosis	ko05134	groEL, HSPD1; chaperonin GroEL
+HZ10__4632_1	K04077	6. Human Diseases	6.8 Infectious disease: bacterial	Tuberculosis	ko05152	groEL, HSPD1; chaperonin GroEL
+HZ10__4643_1	K01937	1. Metabolism	1.4 Nucleotide metabolism	Pyrimidine metabolism	ko00240	pyrG, CTPS; CTP synthase [EC:6.3.4.2]
+HZ10__4643_1	K01937	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	pyrG, CTPS; CTP synthase [EC:6.3.4.2]
+HZ10__4648_1	K01991	3. Environmental Information Processing	3.2 Signal transduction	Two-component system	ko02020	wza, gfcE; polysaccharide biosynthesis/export protein
+HZ10__4648_1	K01991	4. Cellular Processes	4.4 Cellular community - prokaryotes	Biofilm formation - Escherichia coli	ko02026	wza, gfcE; polysaccharide biosynthesis/export protein
+HZ10__4670_1	K04066	2. Genetic Information Processing	2.4 Replication and repair	Homologous recombination	ko03440	priA; primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:3.6.4.-]
+HZ10__4685_1	K20509	1. Metabolism	1.11 Xenobiotics biodegradation and metabolism	Benzoate degradation	ko00362	madB, oadB, gcdB, mmdB; carboxybiotin decarboxylase [EC:7.2.4.1]
+HZ10__4685_1	K20509	1. Metabolism	1.1 Carbohydrate metabolism	Pyruvate metabolism	ko00620	madB, oadB, gcdB, mmdB; carboxybiotin decarboxylase [EC:7.2.4.1]
+HZ10__4685_1	K20509	1. Metabolism	1.1 Carbohydrate metabolism	Butanoate metabolism	ko00650	madB, oadB, gcdB, mmdB; carboxybiotin decarboxylase [EC:7.2.4.1]
+HZ10__4685_1	K20509	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	madB, oadB, gcdB, mmdB; carboxybiotin decarboxylase [EC:7.2.4.1]
+HZ10__4685_1	K20509	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	madB, oadB, gcdB, mmdB; carboxybiotin decarboxylase [EC:7.2.4.1]
+HZ10__4719_1	K01790	1. Metabolism	1.10 Biosynthesis of other secondary metabolites	Streptomycin biosynthesis	ko00521	rfbC, rmlC; dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13]
+HZ10__4719_1	K01790	1. Metabolism	1.9 Metabolism of terpenoids and polyketides	Polyketide sugar unit biosynthesis	ko00523	rfbC, rmlC; dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13]
+HZ10__4719_1	K01790	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	rfbC, rmlC; dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13]
+HZ10__4719_1	K01790	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	rfbC, rmlC; dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13]
+HZ10__4719_1	K01790	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	rfbC, rmlC; dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13]
+HZ10__4723_1	K03701	2. Genetic Information Processing	2.4 Replication and repair	Nucleotide excision repair	ko03420	uvrA; excinuclease ABC subunit A
+HZ10__4782_1	K08679	1. Metabolism	1.1 Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	ko00520	E5.1.3.6; UDP-glucuronate 4-epimerase [EC:5.1.3.6]
+HZ10__4782_1	K08679	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	E5.1.3.6; UDP-glucuronate 4-epimerase [EC:5.1.3.6]
+HZ10__4828_1	K03147	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Thiamine metabolism	ko00730	thiC; phosphomethylpyrimidine synthase [EC:4.1.99.17]
+HZ10__4828_1	K03147	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	thiC; phosphomethylpyrimidine synthase [EC:4.1.99.17]
+HZ10__4845_1	K03151	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Thiamine metabolism	ko00730	thiI; tRNA uracil 4-sulfurtransferase [EC:2.8.1.4]
+HZ10__4845_1	K03151	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	thiI; tRNA uracil 4-sulfurtransferase [EC:2.8.1.4]
+HZ10__4845_1	K03151	2. Genetic Information Processing	2.3 Folding, sorting and degradation	Sulfur relay system	ko04122	thiI; tRNA uracil 4-sulfurtransferase [EC:2.8.1.4]
+HZ10__4849_1	K04802	2. Genetic Information Processing	2.4 Replication and repair	DNA replication	ko03030	PCNA; proliferating cell nuclear antigen
+HZ10__4849_1	K04802	2. Genetic Information Processing	2.4 Replication and repair	Base excision repair	ko03410	PCNA; proliferating cell nuclear antigen
+HZ10__4849_1	K04802	2. Genetic Information Processing	2.4 Replication and repair	Nucleotide excision repair	ko03420	PCNA; proliferating cell nuclear antigen
+HZ10__4849_1	K04802	2. Genetic Information Processing	2.4 Replication and repair	Mismatch repair	ko03430	PCNA; proliferating cell nuclear antigen
+HZ10__4849_1	K04802	4. Cellular Processes	4.2 Cell growth and death	Cell cycle	ko04110	PCNA; proliferating cell nuclear antigen
+HZ10__4849_1	K04802	4. Cellular Processes	4.3 Cellular community - eukaryotes	Tight junction	ko04530	PCNA; proliferating cell nuclear antigen
+HZ10__4849_1	K04802	6. Human Diseases	6.9 Infectious disease: viral	Hepatitis B	ko05161	PCNA; proliferating cell nuclear antigen
+HZ10__4850_1	K06153	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis	ko00550	bacA; undecaprenyl-diphosphatase [EC:3.6.1.27]
+HZ10__4894_1	K04499	3. Environmental Information Processing	3.2 Signal transduction	Wnt signaling pathway	ko04310	RUVBL1, RVB1, INO80H; RuvB-like protein 1 (pontin 52)
+HZ10__4913_1	K01190	1. Metabolism	1.1 Carbohydrate metabolism	Galactose metabolism	ko00052	lacZ; beta-galactosidase [EC:3.2.1.23]
+HZ10__4913_1	K01190	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Other glycan degradation	ko00511	lacZ; beta-galactosidase [EC:3.2.1.23]
+HZ10__4913_1	K01190	1. Metabolism	1.3 Lipid metabolism	Sphingolipid metabolism	ko00600	lacZ; beta-galactosidase [EC:3.2.1.23]
+HZ10__4913_1	K01190	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	lacZ; beta-galactosidase [EC:3.2.1.23]
+HZ10__4995_2	K01115	1. Metabolism	1.3 Lipid metabolism	Glycerophospholipid metabolism	ko00564	PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+HZ10__4995_2	K01115	1. Metabolism	1.3 Lipid metabolism	Ether lipid metabolism	ko00565	PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+HZ10__4995_2	K01115	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+HZ10__4995_2	K01115	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+HZ10__4995_2	K01115	3. Environmental Information Processing	3.2 Signal transduction	Ras signaling pathway	ko04014	PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+HZ10__4995_2	K01115	3. Environmental Information Processing	3.2 Signal transduction	cAMP signaling pathway	ko04024	PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+HZ10__4995_2	K01115	3. Environmental Information Processing	3.2 Signal transduction	Sphingolipid signaling pathway	ko04071	PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+HZ10__4995_2	K01115	3. Environmental Information Processing	3.2 Signal transduction	Phospholipase D signaling pathway	ko04072	PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+HZ10__4995_2	K01115	4. Cellular Processes	4.1 Transport and catabolism	Endocytosis	ko04144	PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+HZ10__4995_2	K01115	5. Organismal Systems	5.1 Immune system	Fc gamma R-mediated phagocytosis	ko04666	PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+HZ10__4995_2	K01115	5. Organismal Systems	5.6 Nervous system	Glutamatergic synapse	ko04724	PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+HZ10__4995_2	K01115	5. Organismal Systems	5.2 Endocrine system	GnRH signaling pathway	ko04912	PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+HZ10__4995_2	K01115	5. Organismal Systems	5.2 Endocrine system	Parathyroid hormone synthesis, secretion and action	ko04928	PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+HZ10__4995_2	K01115	6. Human Diseases	6.1 Cancer: overview	Pathways in cancer	ko05200	PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+HZ10__4995_2	K01115	6. Human Diseases	6.2 Cancer: specific types	Pancreatic cancer	ko05212	PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+HZ10__4995_2	K01115	6. Human Diseases	6.1 Cancer: overview	Choline metabolism in cancer	ko05231	PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
+HZ10__5072_1	K03010	2. Genetic Information Processing	2.1 Transcription	RNA polymerase	ko03020	RPB2, POLR2B; DNA-directed RNA polymerase II subunit RPB2 [EC:2.7.7.6]
+HZ10__5072_1	K03010	6. Human Diseases	6.4 Neurodegenerative disease	Huntington disease	ko05016	RPB2, POLR2B; DNA-directed RNA polymerase II subunit RPB2 [EC:2.7.7.6]
+HZ10__5127_1	K05755	4. Cellular Processes	4.1 Transport and catabolism	Endocytosis	ko04144	ARPC4; actin related protein 2/3 complex, subunit 4
+HZ10__5127_1	K05755	5. Organismal Systems	5.1 Immune system	Fc gamma R-mediated phagocytosis	ko04666	ARPC4; actin related protein 2/3 complex, subunit 4
+HZ10__5127_1	K05755	4. Cellular Processes	4.5 Cell motility	Regulation of actin cytoskeleton	ko04810	ARPC4; actin related protein 2/3 complex, subunit 4
+HZ10__5127_1	K05755	6. Human Diseases	6.8 Infectious disease: bacterial	Bacterial invasion of epithelial cells	ko05100	ARPC4; actin related protein 2/3 complex, subunit 4
+HZ10__5127_1	K05755	6. Human Diseases	6.8 Infectious disease: bacterial	Pathogenic Escherichia coli infection	ko05130	ARPC4; actin related protein 2/3 complex, subunit 4
+HZ10__5127_1	K05755	6. Human Diseases	6.8 Infectious disease: bacterial	Shigellosis	ko05131	ARPC4; actin related protein 2/3 complex, subunit 4
+HZ10__5127_1	K05755	6. Human Diseases	6.8 Infectious disease: bacterial	Salmonella infection	ko05132	ARPC4; actin related protein 2/3 complex, subunit 4
+HZ10__5128_1	K03551	2. Genetic Information Processing	2.4 Replication and repair	Homologous recombination	ko03440	ruvB; holliday junction DNA helicase RuvB [EC:3.6.4.12]
+HZ10__5128_2	K01866	2. Genetic Information Processing	2.2 Translation	Aminoacyl-tRNA biosynthesis	ko00970	YARS, tyrS; tyrosyl-tRNA synthetase [EC:6.1.1.1]
+HZ10__5148_1	K22182	1. Metabolism	1.6 Metabolism of other amino acids	Selenocompound metabolism	ko00450	TXNRD; thioredoxin reductase (NADPH) [EC:1.8.1.9]
+HZ10__5148_1	K22182	6. Human Diseases	6.1 Cancer: overview	Pathways in cancer	ko05200	TXNRD; thioredoxin reductase (NADPH) [EC:1.8.1.9]
+HZ10__5148_1	K22182	6. Human Diseases	6.2 Cancer: specific types	Hepatocellular carcinoma	ko05225	TXNRD; thioredoxin reductase (NADPH) [EC:1.8.1.9]
+HZ10__5182_2	K02926	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L4, MRPL4, rplD; large subunit ribosomal protein L4
+HZ10__5182_3	K02906	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L3, MRPL3, rplC; large subunit ribosomal protein L3
+HZ10__5182_4	K02946	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-S10, MRPS10, rpsJ; small subunit ribosomal protein S10
+HZ10__5185_3	K02340	2. Genetic Information Processing	2.4 Replication and repair	DNA replication	ko03030	holA; DNA polymerase III subunit delta [EC:2.7.7.7]
+HZ10__5185_3	K02340	2. Genetic Information Processing	2.4 Replication and repair	Mismatch repair	ko03430	holA; DNA polymerase III subunit delta [EC:2.7.7.7]
+HZ10__5185_3	K02340	2. Genetic Information Processing	2.4 Replication and repair	Homologous recombination	ko03440	holA; DNA polymerase III subunit delta [EC:2.7.7.7]
+HZ10__5205_1	K10949	6. Human Diseases	6.8 Infectious disease: bacterial	Vibrio cholerae infection	ko05110	KDELR; ER lumen protein retaining receptor
+HZ10__5217_2	K02876	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L15, MRPL15, rplO; large subunit ribosomal protein L15
+HZ10__5231_2	K00748	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis	ko00540	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]
+HZ10__5231_2	K00748	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]
+HZ10__5240_1	K02931	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L5, MRPL5, rplE; large subunit ribosomal protein L5
+HZ10__5241_2	K02992	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-S7, MRPS7, rpsG; small subunit ribosomal protein S7
+HZ10__5267_2	K01872	2. Genetic Information Processing	2.2 Translation	Aminoacyl-tRNA biosynthesis	ko00970	AARS, alaS; alanyl-tRNA synthetase [EC:6.1.1.7]
+HZ10__5269_1	K01627	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis	ko00540	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]
+HZ10__5269_1	K01627	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]
+HZ10__5273_1	K03723	2. Genetic Information Processing	2.4 Replication and repair	Nucleotide excision repair	ko03420	mfd; transcription-repair coupling factor (superfamily II helicase) [EC:3.6.4.-]
+HZ10__5279_3	K01653	1. Metabolism	1.5 Amino acid metabolism	Valine, leucine and isoleucine biosynthesis	ko00290	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__5279_3	K01653	1. Metabolism	1.1 Carbohydrate metabolism	Butanoate metabolism	ko00650	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__5279_3	K01653	1. Metabolism	1.1 Carbohydrate metabolism	C5-Branched dibasic acid metabolism	ko00660	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__5279_3	K01653	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis	ko00770	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__5279_3	K01653	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__5279_3	K01653	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__5279_3	K01653	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__5279_3	K01653	1. Metabolism	1.0 Global and overview maps	2-Oxocarboxylic acid metabolism	ko01210	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__5279_3	K01653	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+HZ10__5306_1	K03147	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Thiamine metabolism	ko00730	thiC; phosphomethylpyrimidine synthase [EC:4.1.99.17]
+HZ10__5306_1	K03147	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	thiC; phosphomethylpyrimidine synthase [EC:4.1.99.17]
+HZ10__5354_1	K03043	2. Genetic Information Processing	2.1 Transcription	RNA polymerase	ko03020	rpoB; DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+HZ10__5375_1	K02879	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L17, MRPL17, rplQ; large subunit ribosomal protein L17
+HZ10__5389_1	K00609	1. Metabolism	1.4 Nucleotide metabolism	Pyrimidine metabolism	ko00240	pyrB, PYR2; aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]
+HZ10__5389_1	K00609	1. Metabolism	1.5 Amino acid metabolism	Alanine, aspartate and glutamate metabolism	ko00250	pyrB, PYR2; aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]
+HZ10__5389_1	K00609	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	pyrB, PYR2; aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]
+HZ10__5401_1	K00975	1. Metabolism	1.1 Carbohydrate metabolism	Starch and sucrose metabolism	ko00500	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]
+HZ10__5401_1	K00975	1. Metabolism	1.1 Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	ko00520	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]
+HZ10__5401_1	K00975	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]
+HZ10__5401_1	K00975	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]
+HZ10__5401_1	K00975	4. Cellular Processes	4.4 Cellular community - prokaryotes	Biofilm formation - Escherichia coli	ko02026	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]
+HZ10__5417_1	K03111	2. Genetic Information Processing	2.4 Replication and repair	DNA replication	ko03030	ssb; single-strand DNA-binding protein
+HZ10__5417_1	K03111	2. Genetic Information Processing	2.4 Replication and repair	Mismatch repair	ko03430	ssb; single-strand DNA-binding protein
+HZ10__5417_1	K03111	2. Genetic Information Processing	2.4 Replication and repair	Homologous recombination	ko03440	ssb; single-strand DNA-binding protein
+HZ10__5430_3	K11752	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Riboflavin metabolism	ko00740	ribD; diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]
+HZ10__5430_3	K11752	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	ribD; diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]
+HZ10__5430_3	K11752	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	ribD; diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]
+HZ10__5430_3	K11752	4. Cellular Processes	4.4 Cellular community - prokaryotes	Quorum sensing	ko02024	ribD; diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]
+HZ10__5447_1	K02527	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis	ko00540	kdtA, waaA; 3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]
+HZ10__5447_1	K02527	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	kdtA, waaA; 3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]
+HZ10__5455_1	K02892	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L23, MRPL23, rplW; large subunit ribosomal protein L23
+HZ10__5475_1	K00784	2. Genetic Information Processing	2.2 Translation	RNA transport	ko03013	rnz; ribonuclease Z [EC:3.1.26.11]
+HZ10__5514_3	K01358	4. Cellular Processes	4.2 Cell growth and death	Cell cycle - Caulobacter	ko04112	clpP, CLPP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+HZ10__5514_3	K01358	5. Organismal Systems	5.9 Aging	Longevity regulating pathway - worm	ko04212	clpP, CLPP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+HZ10__5569_2	K00912	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis	ko00540	lpxK; tetraacyldisaccharide 4'-kinase [EC:2.7.1.130]
+HZ10__5569_2	K00912	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	lpxK; tetraacyldisaccharide 4'-kinase [EC:2.7.1.130]
+HZ10__5581_1	K03111	2. Genetic Information Processing	2.4 Replication and repair	DNA replication	ko03030	ssb; single-strand DNA-binding protein
+HZ10__5581_1	K03111	2. Genetic Information Processing	2.4 Replication and repair	Mismatch repair	ko03430	ssb; single-strand DNA-binding protein
+HZ10__5581_1	K03111	2. Genetic Information Processing	2.4 Replication and repair	Homologous recombination	ko03440	ssb; single-strand DNA-binding protein
+HZ10__5620_1	K19355	1. Metabolism	1.1 Carbohydrate metabolism	Fructose and mannose metabolism	ko00051	MAN; mannan endo-1,4-beta-mannosidase [EC:3.2.1.78]
+HZ10__5620_1	K19355	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	MAN; mannan endo-1,4-beta-mannosidase [EC:3.2.1.78]
+HZ10__5662_1	K02899	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L27, MRPL27, rpmA; large subunit ribosomal protein L27
+HZ10__5738_2	K02913	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L33, MRPL33, rpmG; large subunit ribosomal protein L33
+HZ10__5774_2	K02946	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-S10, MRPS10, rpsJ; small subunit ribosomal protein S10
+HZ10__5802_1	K03544	4. Cellular Processes	4.2 Cell growth and death	Cell cycle - Caulobacter	ko04112	clpX, CLPX; ATP-dependent Clp protease ATP-binding subunit ClpX
+HZ10__5802_2	K01358	4. Cellular Processes	4.2 Cell growth and death	Cell cycle - Caulobacter	ko04112	clpP, CLPP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+HZ10__5802_2	K01358	5. Organismal Systems	5.9 Aging	Longevity regulating pathway - worm	ko04212	clpP, CLPP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+HZ10__5815_1	K03092	3. Environmental Information Processing	3.2 Signal transduction	Two-component system	ko02020	rpoN; RNA polymerase sigma-54 factor
+HZ10__5815_1	K03092	4. Cellular Processes	4.4 Cellular community - prokaryotes	Biofilm formation - Vibrio cholerae	ko05111	rpoN; RNA polymerase sigma-54 factor
+HZ10__5838_2	K02970	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-S21, MRPS21, rpsU; small subunit ribosomal protein S21
+HZ10__5868_2	K06133	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis	ko00770	LYS5, acpT; 4'-phosphopantetheinyl transferase [EC:2.7.8.-]
+HZ10__5885_1	K15923	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Other glycan degradation	ko00511	AXY8, FUC95A, afcA; alpha-L-fucosidase 2 [EC:3.2.1.51]
+HZ10__5926_1	K06041	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis	ko00540	kdsD, kpsF; arabinose-5-phosphate isomerase [EC:5.3.1.13]
+HZ10__5926_1	K06041	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	kdsD, kpsF; arabinose-5-phosphate isomerase [EC:5.3.1.13]
+HZ10__5962_22	K00558	1. Metabolism	1.5 Amino acid metabolism	Cysteine and methionine metabolism	ko00270	DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]
+HZ10__5962_22	K00558	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]
+HZ10__5962_22	K00558	6. Human Diseases	6.1 Cancer: overview	MicroRNAs in cancer	ko05206	DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]
+HZ10__5980_1	K03702	2. Genetic Information Processing	2.4 Replication and repair	Nucleotide excision repair	ko03420	uvrB; excinuclease ABC subunit B
+HZ10__6013_1	K03527	1. Metabolism	1.9 Metabolism of terpenoids and polyketides	Terpenoid backbone biosynthesis	ko00900	ispH, lytB; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]
+HZ10__6013_1	K03527	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	ispH, lytB; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]
+HZ10__6013_1	K03527	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	ispH, lytB; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]
+HZ10__6013_1	K03527	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	ispH, lytB; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]
+HZ10__6047_3	K14155	1. Metabolism	1.5 Amino acid metabolism	Cysteine and methionine metabolism	ko00270	patB, malY; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+HZ10__6047_3	K14155	1. Metabolism	1.6 Metabolism of other amino acids	Selenocompound metabolism	ko00450	patB, malY; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+HZ10__6047_3	K14155	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	patB, malY; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+HZ10__6047_3	K14155	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	patB, malY; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+HZ10__6047_3	K14155	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	patB, malY; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+HZ10__6048_2	K14652	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Riboflavin metabolism	ko00740	ribBA; 3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25]
+HZ10__6048_2	K14652	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Folate biosynthesis	ko00790	ribBA; 3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25]
+HZ10__6048_2	K14652	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	ribBA; 3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25]
+HZ10__6048_2	K14652	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	ribBA; 3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25]
+HZ10__6058_2	K18697	1. Metabolism	1.3 Lipid metabolism	Glycerophospholipid metabolism	ko00564	pgpC; phosphatidylglycerophosphatase C [EC:3.1.3.27]
+HZ10__6085_2	K08722	1. Metabolism	1.4 Nucleotide metabolism	Pyrimidine metabolism	ko00240	yfbR; 5'-deoxynucleotidase [EC:3.1.3.89]
+HZ10__6085_2	K08722	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	yfbR; 5'-deoxynucleotidase [EC:3.1.3.89]
+HZ10__6103_6	K01872	2. Genetic Information Processing	2.2 Translation	Aminoacyl-tRNA biosynthesis	ko00970	AARS, alaS; alanyl-tRNA synthetase [EC:6.1.1.7]
+HZ10__6103_8	K00951	1. Metabolism	1.4 Nucleotide metabolism	Purine metabolism	ko00230	relA; GTP pyrophosphokinase [EC:2.7.6.5]
+HZ10__6103_8	K00951	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	relA; GTP pyrophosphokinase [EC:2.7.6.5]
+HZ10__6116_2	K00784	2. Genetic Information Processing	2.2 Translation	RNA transport	ko03013	rnz; ribonuclease Z [EC:3.1.26.11]
+HZ10__6148_1	K01205	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Glycosaminoglycan degradation	ko00531	NAGLU; alpha-N-acetylglucosaminidase [EC:3.2.1.50]
+HZ10__6148_1	K01205	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	NAGLU; alpha-N-acetylglucosaminidase [EC:3.2.1.50]
+HZ10__6148_1	K01205	4. Cellular Processes	4.1 Transport and catabolism	Lysosome	ko04142	NAGLU; alpha-N-acetylglucosaminidase [EC:3.2.1.50]
+HZ10__6155_4	K00067	1. Metabolism	1.10 Biosynthesis of other secondary metabolites	Streptomycin biosynthesis	ko00521	rfbD, rmlD; dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]
+HZ10__6155_4	K00067	1. Metabolism	1.9 Metabolism of terpenoids and polyketides	Polyketide sugar unit biosynthesis	ko00523	rfbD, rmlD; dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]
+HZ10__6155_4	K00067	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	rfbD, rmlD; dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]
+HZ10__6155_4	K00067	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	rfbD, rmlD; dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]
+HZ10__6155_4	K00067	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	rfbD, rmlD; dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]
+HZ10__6183_1	K00287	1. Metabolism	1.8 Metabolism of cofactors and vitamins	One carbon pool by folate	ko00670	DHFR, folA; dihydrofolate reductase [EC:1.5.1.3]
+HZ10__6183_1	K00287	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Folate biosynthesis	ko00790	DHFR, folA; dihydrofolate reductase [EC:1.5.1.3]
+HZ10__6183_1	K00287	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	DHFR, folA; dihydrofolate reductase [EC:1.5.1.3]
+HZ10__6183_1	K00287	6. Human Diseases	6.12 Drug resistance: antineoplastic	Antifolate resistance	ko01523	DHFR, folA; dihydrofolate reductase [EC:1.5.1.3]
+HZ10__6209_1	K03092	3. Environmental Information Processing	3.2 Signal transduction	Two-component system	ko02020	rpoN; RNA polymerase sigma-54 factor
+HZ10__6209_1	K03092	4. Cellular Processes	4.4 Cellular community - prokaryotes	Biofilm formation - Vibrio cholerae	ko05111	rpoN; RNA polymerase sigma-54 factor
+HZ10__6229_2	K00873	1. Metabolism	1.1 Carbohydrate metabolism	Glycolysis / Gluconeogenesis	ko00010	PK, pyk; pyruvate kinase [EC:2.7.1.40]
+HZ10__6229_2	K00873	1. Metabolism	1.4 Nucleotide metabolism	Purine metabolism	ko00230	PK, pyk; pyruvate kinase [EC:2.7.1.40]
+HZ10__6229_2	K00873	1. Metabolism	1.1 Carbohydrate metabolism	Pyruvate metabolism	ko00620	PK, pyk; pyruvate kinase [EC:2.7.1.40]
+HZ10__6229_2	K00873	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	PK, pyk; pyruvate kinase [EC:2.7.1.40]
+HZ10__6229_2	K00873	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	PK, pyk; pyruvate kinase [EC:2.7.1.40]
+HZ10__6229_2	K00873	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	PK, pyk; pyruvate kinase [EC:2.7.1.40]
+HZ10__6229_2	K00873	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	PK, pyk; pyruvate kinase [EC:2.7.1.40]
+HZ10__6229_2	K00873	1. Metabolism	1.0 Global and overview maps	Carbon metabolism	ko01200	PK, pyk; pyruvate kinase [EC:2.7.1.40]
+HZ10__6229_2	K00873	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	PK, pyk; pyruvate kinase [EC:2.7.1.40]
+HZ10__6229_2	K00873	5. Organismal Systems	5.2 Endocrine system	Glucagon signaling pathway	ko04922	PK, pyk; pyruvate kinase [EC:2.7.1.40]
+HZ10__6229_2	K00873	6. Human Diseases	6.7 Endocrine and metabolic disease	Type II diabetes mellitus	ko04930	PK, pyk; pyruvate kinase [EC:2.7.1.40]
+HZ10__6229_2	K00873	6. Human Diseases	6.9 Infectious disease: viral	Human papillomavirus infection	ko05165	PK, pyk; pyruvate kinase [EC:2.7.1.40]
+HZ10__6229_2	K00873	6. Human Diseases	6.1 Cancer: overview	Viral carcinogenesis	ko05203	PK, pyk; pyruvate kinase [EC:2.7.1.40]
+HZ10__6229_2	K00873	6. Human Diseases	6.1 Cancer: overview	Central carbon metabolism in cancer	ko05230	PK, pyk; pyruvate kinase [EC:2.7.1.40]
+HZ10__6262_1	K02338	2. Genetic Information Processing	2.4 Replication and repair	DNA replication	ko03030	dnaN; DNA polymerase III subunit beta [EC:2.7.7.7]
+HZ10__6262_1	K02338	2. Genetic Information Processing	2.4 Replication and repair	Mismatch repair	ko03430	dnaN; DNA polymerase III subunit beta [EC:2.7.7.7]
+HZ10__6262_1	K02338	2. Genetic Information Processing	2.4 Replication and repair	Homologous recombination	ko03440	dnaN; DNA polymerase III subunit beta [EC:2.7.7.7]
+HZ10__6275_1	K12190	4. Cellular Processes	4.1 Transport and catabolism	Endocytosis	ko04144	VPS36, EAP45; ESCRT-II complex subunit VPS36
+HZ10__6285_3	K02887	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L20, MRPL20, rplT; large subunit ribosomal protein L20
+HZ10__6304_1	K03553	2. Genetic Information Processing	2.4 Replication and repair	Homologous recombination	ko03440	recA; recombination protein RecA
+HZ10__6307_1	K01868	2. Genetic Information Processing	2.2 Translation	Aminoacyl-tRNA biosynthesis	ko00970	TARS, thrS; threonyl-tRNA synthetase [EC:6.1.1.3]
+HZ10__6325_1	K01784	1. Metabolism	1.1 Carbohydrate metabolism	Galactose metabolism	ko00052	galE, GALE; UDP-glucose 4-epimerase [EC:5.1.3.2]
+HZ10__6325_1	K01784	1. Metabolism	1.1 Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	ko00520	galE, GALE; UDP-glucose 4-epimerase [EC:5.1.3.2]
+HZ10__6325_1	K01784	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	galE, GALE; UDP-glucose 4-epimerase [EC:5.1.3.2]
+HZ10__6343_1	K00948	1. Metabolism	1.1 Carbohydrate metabolism	Pentose phosphate pathway	ko00030	PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+HZ10__6343_1	K00948	1. Metabolism	1.4 Nucleotide metabolism	Purine metabolism	ko00230	PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+HZ10__6343_1	K00948	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+HZ10__6343_1	K00948	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+HZ10__6343_1	K00948	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+HZ10__6343_1	K00948	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+HZ10__6343_1	K00948	1. Metabolism	1.0 Global and overview maps	Carbon metabolism	ko01200	PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+HZ10__6343_1	K00948	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+HZ10__6352_2	K03210	4. Cellular Processes	4.4 Cellular community - prokaryotes	Quorum sensing	ko02024	yajC; preprotein translocase subunit YajC
+HZ10__6352_2	K03210	2. Genetic Information Processing	2.3 Folding, sorting and degradation	Protein export	ko03060	yajC; preprotein translocase subunit YajC
+HZ10__6352_2	K03210	3. Environmental Information Processing	3.1 Membrane transport	Bacterial secretion system	ko03070	yajC; preprotein translocase subunit YajC
+HZ10__6359_1	K03385	1. Metabolism	1.2 Energy metabolism	Nitrogen metabolism	ko00910	nrfA; nitrite reductase (cytochrome c-552) [EC:1.7.2.2]
+HZ10__6359_1	K03385	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	nrfA; nitrite reductase (cytochrome c-552) [EC:1.7.2.2]
+HZ10__6359_1	K03385	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	nrfA; nitrite reductase (cytochrome c-552) [EC:1.7.2.2]
+HZ10__6398_2	K02209	2. Genetic Information Processing	2.4 Replication and repair	DNA replication	ko03030	MCM5, CDC46; DNA replication licensing factor MCM5 [EC:3.6.4.12]
+HZ10__6398_2	K02209	4. Cellular Processes	4.2 Cell growth and death	Cell cycle	ko04110	MCM5, CDC46; DNA replication licensing factor MCM5 [EC:3.6.4.12]
+HZ10__6398_2	K02209	4. Cellular Processes	4.2 Cell growth and death	Cell cycle - yeast	ko04111	MCM5, CDC46; DNA replication licensing factor MCM5 [EC:3.6.4.12]
+HZ10__6398_2	K02209	4. Cellular Processes	4.2 Cell growth and death	Meiosis - yeast	ko04113	MCM5, CDC46; DNA replication licensing factor MCM5 [EC:3.6.4.12]
+HZ10__6403_2	K00942	1. Metabolism	1.4 Nucleotide metabolism	Purine metabolism	ko00230	E2.7.4.8, gmk; guanylate kinase [EC:2.7.4.8]
+HZ10__6403_2	K00942	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	E2.7.4.8, gmk; guanylate kinase [EC:2.7.4.8]
+HZ10__6477_1	K02338	2. Genetic Information Processing	2.4 Replication and repair	DNA replication	ko03030	dnaN; DNA polymerase III subunit beta [EC:2.7.7.7]
+HZ10__6477_1	K02338	2. Genetic Information Processing	2.4 Replication and repair	Mismatch repair	ko03430	dnaN; DNA polymerase III subunit beta [EC:2.7.7.7]
+HZ10__6477_1	K02338	2. Genetic Information Processing	2.4 Replication and repair	Homologous recombination	ko03440	dnaN; DNA polymerase III subunit beta [EC:2.7.7.7]
+HZ10__6478_1	K01206	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Other glycan degradation	ko00511	FUCA; alpha-L-fucosidase [EC:3.2.1.51]
+HZ10__6486_1	K02358	5. Organismal Systems	5.10 Environmental adaptation	Plant-pathogen interaction	ko04626	tuf, TUFM; elongation factor Tu
+HZ10__6521_4	K01190	1. Metabolism	1.1 Carbohydrate metabolism	Galactose metabolism	ko00052	lacZ; beta-galactosidase [EC:3.2.1.23]
+HZ10__6521_4	K01190	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Other glycan degradation	ko00511	lacZ; beta-galactosidase [EC:3.2.1.23]
+HZ10__6521_4	K01190	1. Metabolism	1.3 Lipid metabolism	Sphingolipid metabolism	ko00600	lacZ; beta-galactosidase [EC:3.2.1.23]
+HZ10__6521_4	K01190	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	lacZ; beta-galactosidase [EC:3.2.1.23]
+HZ10__6521_5	K01661	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Ubiquinone and other terpenoid-quinone biosynthesis	ko00130	menB; naphthoate synthase [EC:4.1.3.36]
+HZ10__6521_5	K01661	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	menB; naphthoate synthase [EC:4.1.3.36]
+HZ10__6521_5	K01661	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	menB; naphthoate synthase [EC:4.1.3.36]
+HZ10__6521_6	K00794	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Riboflavin metabolism	ko00740	ribH, RIB4; 6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]
+HZ10__6521_6	K00794	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	ribH, RIB4; 6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]
+HZ10__6521_6	K00794	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	ribH, RIB4; 6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]
+HZ10__6538_1	K07405	1. Metabolism	1.1 Carbohydrate metabolism	Starch and sucrose metabolism	ko00500	E3.2.1.1A; alpha-amylase [EC:3.2.1.1]
+HZ10__6538_1	K07405	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	E3.2.1.1A; alpha-amylase [EC:3.2.1.1]
+HZ10__6538_1	K07405	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	E3.2.1.1A; alpha-amylase [EC:3.2.1.1]
+HZ10__6549_1	K07029	1. Metabolism	1.3 Lipid metabolism	Glycerolipid metabolism	ko00561	dagK; diacylglycerol kinase (ATP) [EC:2.7.1.107]
+HZ10__6549_1	K07029	1. Metabolism	1.3 Lipid metabolism	Glycerophospholipid metabolism	ko00564	dagK; diacylglycerol kinase (ATP) [EC:2.7.1.107]
+HZ10__6549_1	K07029	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	dagK; diacylglycerol kinase (ATP) [EC:2.7.1.107]
+HZ10__6549_1	K07029	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	dagK; diacylglycerol kinase (ATP) [EC:2.7.1.107]
+HZ10__6563_1	K01358	4. Cellular Processes	4.2 Cell growth and death	Cell cycle - Caulobacter	ko04112	clpP, CLPP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+HZ10__6563_1	K01358	5. Organismal Systems	5.9 Aging	Longevity regulating pathway - worm	ko04212	clpP, CLPP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+HZ10__6567_5	K01012	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Biotin metabolism	ko00780	bioB; biotin synthase [EC:2.8.1.6]
+HZ10__6567_5	K01012	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	bioB; biotin synthase [EC:2.8.1.6]
+HZ10__6590_1	K00895	1. Metabolism	1.1 Carbohydrate metabolism	Glycolysis / Gluconeogenesis	ko00010	pfp, PFP; diphosphate-dependent phosphofructokinase [EC:2.7.1.90]
+HZ10__6590_1	K00895	1. Metabolism	1.1 Carbohydrate metabolism	Pentose phosphate pathway	ko00030	pfp, PFP; diphosphate-dependent phosphofructokinase [EC:2.7.1.90]
+HZ10__6590_1	K00895	1. Metabolism	1.1 Carbohydrate metabolism	Fructose and mannose metabolism	ko00051	pfp, PFP; diphosphate-dependent phosphofructokinase [EC:2.7.1.90]
+HZ10__6590_1	K00895	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	pfp, PFP; diphosphate-dependent phosphofructokinase [EC:2.7.1.90]
+HZ10__6590_1	K00895	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	pfp, PFP; diphosphate-dependent phosphofructokinase [EC:2.7.1.90]
+HZ10__6590_1	K00895	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	pfp, PFP; diphosphate-dependent phosphofructokinase [EC:2.7.1.90]
+HZ10__6590_1	K00895	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	pfp, PFP; diphosphate-dependent phosphofructokinase [EC:2.7.1.90]
+HZ10__6630_2	K06167	1. Metabolism	1.6 Metabolism of other amino acids	Phosphonate and phosphinate metabolism	ko00440	phnP; phosphoribosyl 1,2-cyclic phosphate phosphodiesterase [EC:3.1.4.55]
+HZ10__6630_2	K06167	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	phnP; phosphoribosyl 1,2-cyclic phosphate phosphodiesterase [EC:3.1.4.55]
+HZ10__6654_1	K02994	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-S8, rpsH; small subunit ribosomal protein S8
+HZ10__6654_2	K02933	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L6, MRPL6, rplF; large subunit ribosomal protein L6
+HZ10__6656_1	K01610	1. Metabolism	1.1 Carbohydrate metabolism	Glycolysis / Gluconeogenesis	ko00010	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+HZ10__6656_1	K01610	1. Metabolism	1.1 Carbohydrate metabolism	Citrate cycle (TCA cycle)	ko00020	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+HZ10__6656_1	K01610	1. Metabolism	1.1 Carbohydrate metabolism	Pyruvate metabolism	ko00620	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+HZ10__6656_1	K01610	1. Metabolism	1.2 Energy metabolism	Carbon fixation in photosynthetic organisms	ko00710	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+HZ10__6656_1	K01610	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+HZ10__6656_1	K01610	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+HZ10__6656_1	K01610	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+HZ10__6656_1	K01610	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+HZ10__6656_1	K01610	1. Metabolism	1.0 Global and overview maps	Carbon metabolism	ko01200	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+HZ10__6668_2	K02037	3. Environmental Information Processing	3.1 Membrane transport	ABC transporters	ko02010	pstC; phosphate transport system permease protein
+HZ10__6669_1	K01870	2. Genetic Information Processing	2.2 Translation	Aminoacyl-tRNA biosynthesis	ko00970	IARS, ileS; isoleucyl-tRNA synthetase [EC:6.1.1.5]
+HZ10__6675_3	K01873	2. Genetic Information Processing	2.2 Translation	Aminoacyl-tRNA biosynthesis	ko00970	VARS, valS; valyl-tRNA synthetase [EC:6.1.1.9]
+HZ10__6682_2	K01218	1. Metabolism	1.1 Carbohydrate metabolism	Fructose and mannose metabolism	ko00051	gmuG; mannan endo-1,4-beta-mannosidase [EC:3.2.1.78]
+HZ10__6682_2	K01218	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	gmuG; mannan endo-1,4-beta-mannosidase [EC:3.2.1.78]
+HZ10__6682_2	K01218	4. Cellular Processes	4.4 Cellular community - prokaryotes	Quorum sensing	ko02024	gmuG; mannan endo-1,4-beta-mannosidase [EC:3.2.1.78]
+HZ10__6702_1	K02992	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-S7, MRPS7, rpsG; small subunit ribosomal protein S7
+HZ10__6705_3	K02338	2. Genetic Information Processing	2.4 Replication and repair	DNA replication	ko03030	dnaN; DNA polymerase III subunit beta [EC:2.7.7.7]
+HZ10__6705_3	K02338	2. Genetic Information Processing	2.4 Replication and repair	Mismatch repair	ko03430	dnaN; DNA polymerase III subunit beta [EC:2.7.7.7]
+HZ10__6705_3	K02338	2. Genetic Information Processing	2.4 Replication and repair	Homologous recombination	ko03440	dnaN; DNA polymerase III subunit beta [EC:2.7.7.7]
+HZ10__6730_2	K00859	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis	ko00770	coaE; dephospho-CoA kinase [EC:2.7.1.24]
+HZ10__6730_2	K00859	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	coaE; dephospho-CoA kinase [EC:2.7.1.24]
+HZ10__6731_2	K01897	1. Metabolism	1.3 Lipid metabolism	Fatty acid biosynthesis	ko00061	ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+HZ10__6731_2	K01897	1. Metabolism	1.3 Lipid metabolism	Fatty acid degradation	ko00071	ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+HZ10__6731_2	K01897	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+HZ10__6731_2	K01897	1. Metabolism	1.0 Global and overview maps	Fatty acid metabolism	ko01212	ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+HZ10__6731_2	K01897	4. Cellular Processes	4.4 Cellular community - prokaryotes	Quorum sensing	ko02024	ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+HZ10__6731_2	K01897	5. Organismal Systems	5.2 Endocrine system	PPAR signaling pathway	ko03320	ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+HZ10__6731_2	K01897	4. Cellular Processes	4.1 Transport and catabolism	Peroxisome	ko04146	ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+HZ10__6731_2	K01897	4. Cellular Processes	4.2 Cell growth and death	Ferroptosis	ko04216	ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+HZ10__6731_2	K01897	5. Organismal Systems	5.10 Environmental adaptation	Thermogenesis	ko04714	ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+HZ10__6731_2	K01897	5. Organismal Systems	5.2 Endocrine system	Adipocytokine signaling pathway	ko04920	ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+HZ10__6740_1	K01962	1. Metabolism	1.3 Lipid metabolism	Fatty acid biosynthesis	ko00061	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15]
+HZ10__6740_1	K01962	1. Metabolism	1.1 Carbohydrate metabolism	Pyruvate metabolism	ko00620	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15]
+HZ10__6740_1	K01962	1. Metabolism	1.1 Carbohydrate metabolism	Propanoate metabolism	ko00640	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15]
+HZ10__6740_1	K01962	1. Metabolism	1.2 Energy metabolism	Carbon fixation pathways in prokaryotes	ko00720	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15]
+HZ10__6740_1	K01962	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15]
+HZ10__6740_1	K01962	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15]
+HZ10__6740_1	K01962	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15]
+HZ10__6740_1	K01962	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15]
+HZ10__6740_1	K01962	1. Metabolism	1.0 Global and overview maps	Carbon metabolism	ko01200	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15]
+HZ10__6740_1	K01962	1. Metabolism	1.0 Global and overview maps	Fatty acid metabolism	ko01212	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15]
+HZ10__6763_1	K03628	2. Genetic Information Processing	2.3 Folding, sorting and degradation	RNA degradation	ko03018	rho; transcription termination factor Rho
+HZ10__6769_1	K01945	1. Metabolism	1.4 Nucleotide metabolism	Purine metabolism	ko00230	purD; phosphoribosylamine---glycine ligase [EC:6.3.4.13]
+HZ10__6769_1	K01945	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	purD; phosphoribosylamine---glycine ligase [EC:6.3.4.13]
+HZ10__6769_1	K01945	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	purD; phosphoribosylamine---glycine ligase [EC:6.3.4.13]
+HZ10__6769_1	K01945	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	purD; phosphoribosylamine---glycine ligase [EC:6.3.4.13]
+HZ10__6811_1	K03531	4. Cellular Processes	4.2 Cell growth and death	Cell cycle - Caulobacter	ko04112	ftsZ; cell division protein FtsZ
+HZ10__6835_1	K00241	1. Metabolism	1.1 Carbohydrate metabolism	Citrate cycle (TCA cycle)	ko00020	sdhC, frdC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit
+HZ10__6835_1	K00241	1. Metabolism	1.2 Energy metabolism	Oxidative phosphorylation	ko00190	sdhC, frdC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit
+HZ10__6835_1	K00241	1. Metabolism	1.1 Carbohydrate metabolism	Butanoate metabolism	ko00650	sdhC, frdC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit
+HZ10__6835_1	K00241	1. Metabolism	1.2 Energy metabolism	Carbon fixation pathways in prokaryotes	ko00720	sdhC, frdC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit
+HZ10__6835_1	K00241	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	sdhC, frdC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit
+HZ10__6835_1	K00241	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	sdhC, frdC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit
+HZ10__6835_1	K00241	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	sdhC, frdC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit
+HZ10__6835_1	K00241	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	sdhC, frdC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit
+HZ10__6835_1	K00241	1. Metabolism	1.0 Global and overview maps	Carbon metabolism	ko01200	sdhC, frdC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit
+HZ10__6865_1	K01458	1. Metabolism	1.5 Amino acid metabolism	Histidine metabolism	ko00340	hutG; N-formylglutamate deformylase [EC:3.5.1.68]
+HZ10__6865_1	K01458	1. Metabolism	1.1 Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism	ko00630	hutG; N-formylglutamate deformylase [EC:3.5.1.68]
+HZ10__6865_1	K01458	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	hutG; N-formylglutamate deformylase [EC:3.5.1.68]
+HZ10__6886_1	K02934	2. Genetic Information Processing	2.2 Translation	Ribosome	ko03010	RP-L6e, RPL6; large subunit ribosomal protein L6e
+HZ10__6898_1	K00174	1. Metabolism	1.1 Carbohydrate metabolism	Glycolysis / Gluconeogenesis	ko00010	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__6898_1	K00174	1. Metabolism	1.1 Carbohydrate metabolism	Citrate cycle (TCA cycle)	ko00020	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__6898_1	K00174	1. Metabolism	1.1 Carbohydrate metabolism	Pyruvate metabolism	ko00620	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__6898_1	K00174	1. Metabolism	1.1 Carbohydrate metabolism	Butanoate metabolism	ko00650	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__6898_1	K00174	1. Metabolism	1.2 Energy metabolism	Carbon fixation pathways in prokaryotes	ko00720	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__6898_1	K00174	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__6898_1	K00174	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__6898_1	K00174	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__6898_1	K00174	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__6898_1	K00174	1. Metabolism	1.0 Global and overview maps	Carbon metabolism	ko01200	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]
+HZ10__6915_2	K01620	1. Metabolism	1.5 Amino acid metabolism	Glycine, serine and threonine metabolism	ko00260	ltaE; threonine aldolase [EC:4.1.2.48]
+HZ10__6915_2	K01620	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	ltaE; threonine aldolase [EC:4.1.2.48]
+HZ10__6915_2	K01620	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	ltaE; threonine aldolase [EC:4.1.2.48]
+HZ10__6915_2	K01620	1. Metabolism	1.0 Global and overview maps	Microbial metabolism in diverse environments	ko01120	ltaE; threonine aldolase [EC:4.1.2.48]
+HZ10__6915_2	K01620	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	ltaE; threonine aldolase [EC:4.1.2.48]
+HZ10__6915_2	K01620	1. Metabolism	1.0 Global and overview maps	Biosynthesis of amino acids	ko01230	ltaE; threonine aldolase [EC:4.1.2.48]
+HZ10__6925_1	K01270	1. Metabolism	1.6 Metabolism of other amino acids	Glutathione metabolism	ko00480	pepD; dipeptidase D [EC:3.4.13.-]
+HZ10__6925_1	K01270	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	pepD; dipeptidase D [EC:3.4.13.-]
+HZ10__7060_2	K01495	1. Metabolism	1.8 Metabolism of cofactors and vitamins	Folate biosynthesis	ko00790	GCH1, folE; GTP cyclohydrolase IA [EC:3.5.4.16]
+HZ10__7060_2	K01495	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	GCH1, folE; GTP cyclohydrolase IA [EC:3.5.4.16]
+HZ10__7100_1	K15923	1. Metabolism	1.7 Glycan biosynthesis and metabolism	Other glycan degradation	ko00511	AXY8, FUC95A, afcA; alpha-L-fucosidase 2 [EC:3.2.1.51]
+HZ10__7118_2	K02114	1. Metabolism	1.2 Energy metabolism	Oxidative phosphorylation	ko00190	ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon
+HZ10__7118_2	K02114	1. Metabolism	1.2 Energy metabolism	Photosynthesis	ko00195	ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon
+HZ10__7118_2	K02114	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon
+HZ10__7127_1	K00602	1. Metabolism	1.4 Nucleotide metabolism	Purine metabolism	ko00230	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]
+HZ10__7127_1	K00602	1. Metabolism	1.8 Metabolism of cofactors and vitamins	One carbon pool by folate	ko00670	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]
+HZ10__7127_1	K00602	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]
+HZ10__7127_1	K00602	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]
+HZ10__7127_1	K00602	1. Metabolism	1.0 Global and overview maps	Biosynthesis of antibiotics	ko01130	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]
+HZ10__7127_1	K00602	6. Human Diseases	6.12 Drug resistance: antineoplastic	Antifolate resistance	ko01523	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]
+HZ10__7131_2	K01703	1. Metabolism	1.5 Amino acid metabolism	Valine, leucine and isoleucine biosynthesis	ko00290	leuC, IPMI-L; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]
+HZ10__7131_2	K01703	1. Metabolism	1.1 Carbohydrate metabolism	C5-Branched dibasic acid metabolism	ko00660	leuC, IPMI-L; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]
+HZ10__7131_2	K01703	1. Metabolism	1.10 Biosynthesis of other secondary metabolites	Glucosinolate biosynthesis	ko00966	leuC, IPMI-L; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]
+HZ10__7131_2	K01703	1. Metabolism	1.0 Global and overview maps	Metabolic pathways	ko01100	leuC, IPMI-L; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]
+HZ10__7131_2	K01703	1. Metabolism	1.0 Global and overview maps	Biosynthesis of secondary metabolites	ko01110	leuC, IPMI-L; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]
+HZ10__7131_2	K01703	1. Metabolism	1.0 Global and overview maps	2-Oxocarboxylic acid metabolism	ko01210	leuC, IPMI-L; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]

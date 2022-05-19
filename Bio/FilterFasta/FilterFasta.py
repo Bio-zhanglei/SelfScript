@@ -1,6 +1,18 @@
 ###一些测序结果中,每个read的长度是不固定的
 ###这个脚本帮助我们只保留大于特定碱基数量的read
 
+#定义一个函数,作用一维数组转为二维数组,如[1,2,3,4]转为
+######[[1,2],[3,4]]
+####或[[1],[2],[3],[4]]
+####或[[1,2,3],[4]]
+def list_of_groups(init_list, childern_list_len):
+    list_of_groups = zip(*(iter(init_list),) *childern_list_len)
+    end_list = [list(i) for i in list_of_groups]
+    count = len(init_list) % childern_list_len
+    end_list.append(init_list[-count:]) if count !=0 else end_list
+    return end_list
+
+
 file = 'RawFasta.txt'
 number = 4
 length = 250

@@ -24,10 +24,11 @@ def read_file(rename):
 
 #定义一个函数,检查旧文件是否存在,新文件是否重命名
 def file_exist(old_file,new_file):
-  if len(old_file) != len(list(set(old_file))):
-    print('\n需要改名的文件有重复,请检查')
-    print('\n---------------------------------------退出---------------------------------------\n')
-    sys.exit(1)
+  for i in old_file:
+    if old_file.count(i) > 1 :
+      print('\n需要改名的文件有重复,请检查--{0}'.format(i))
+      print('\n---------------------------------------退出---------------------------------------\n')
+      sys.exit(1)
   
   all_file = os.listdir()
   if len(list(set(old_file) - (set(all_file) & set(old_file)))) != 0:

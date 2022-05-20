@@ -1,3 +1,5 @@
+#该文件帮助我们输出当前文件夹下特定类型的文件名
+#python NameOut.py后按照指示进行即可
 import os
 import sys
 

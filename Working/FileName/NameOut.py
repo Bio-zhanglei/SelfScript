@@ -35,7 +35,7 @@ elif suffix == '':
   isempty(name_suffix)
   output('nosuffix',name_suffix) 
 else:
-  suffix = suffix if '.' in suffix else '.'+suffix
+  suffix = suffix if suffix[0] == '.' else '.'+suffix
   name_suffix = [i for i in name_style['file'] if os.path.splitext(i)[1] == suffix]
   isempty(name_suffix)
   output(suffix.strip('.'),name_suffix)

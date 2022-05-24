@@ -1,0 +1,44 @@
+>AA330
+Met Leu Phe Gln Val Tyr Gly Asp Asn Ala Ile Tyr Gln Trp Ile Gly
+Trp Ile Leu Val Phe Cys Cys Leu Ile Gly Ala Asn Glu Leu Ala Arg
+Arg Thr Lys Thr Gly Gly Val Ile Ala Phe Leu Val Ile Pro Ala Val
+Leu Thr Val Tyr Phe Ile Thr Ile Tyr Thr Ala Ala Ala Met Gly Ala
+Asp Trp Ala Leu Asn Asn Pro Thr Tyr Val His Met Thr Ser Trp Phe
+His Tyr Ala Lys Leu Tyr Ala Ala Thr Ile Gly Cys Ile Gly Phe Met
+Ala Leu Lys Tyr Lys Trp Gly Ser Ile Gly Lys Ser His Trp Phe Lys
+Cys Phe Pro Phe Val Ile Val Ala Ile Asn Ile Leu Ile Ala Val Val
+Ser Asp Phe Glu Ser Ala Ile Arg Gly Trp Gly Thr Thr Trp Ile Ser
+Thr Glu Gly Val Thr Leu Tyr Gly Gly Trp His Asn Val Phe Asn Gly
+Val Ala Gly Leu Leu Asn Ile Phe Cys Met Thr Gly Trp Phe Gly Ile
+Tyr Ala Ser Lys Lys Lys Asp Asp Met Leu Trp Pro Asp Met Thr Trp
+Val Phe Ile Val Ala Tyr Asp Leu Trp Asn Phe Cys Tyr Thr Tyr Asn
+Cys Leu Pro Thr His Ala Trp Tyr Cys Gly Leu Ala Leu Leu Leu Ala
+Pro Thr Val Ala Asn Phe Phe Trp Asn Lys Gly Gly Trp Ile Gln Asn
+Arg Ala Asn Thr Leu Ala Ile Trp Cys Met Phe Ala Gln Val Phe Pro
+Met Phe Gln Asp Tyr Ser Met Phe Ser Thr Gln Ser Val Asn Asn Pro
+Asn Val Asn Leu Ala Val Ser Leu Ile Ala Leu Ala Ala Asn Val Leu
+Ala Leu Gly Tyr Ile Leu Leu Arg Ala Lys Lys Gln Gly Ile Asn Pro
+Trp Thr Lys Glu Val Phe Lys Gly Thr Lys Asp Tyr Glu Gln Ala Ile
+Ala Arg Ala Asp Glu Ser Glu Leu Ala Ala
+>AA327
+Met Leu Phe Gln Val Tyr Gly Asp Thr Ala Ile Tyr Gln Trp Ile Gly
+Trp Ile Leu Val Phe Cys Cys Leu Ile Gly Ala Asn Glu Leu Ala Arg
+Arg Thr Lys Thr Gly Gly Val Ile Ala Phe Leu Ile Val Pro Ala Ile
+Leu Thr Ile Tyr Phe Ile Thr Ile Tyr Val Ala Ala Ala Met Gly Ala
+Glu Trp Ala Leu Ser Asn Pro Thr Tyr Val His Met Thr Ser Trp Phe
+His Tyr Ala Lys Leu Tyr Ala Ala Thr Ala Gly Cys Ile Gly Phe Met
+Ala Leu Lys Tyr Lys Trp Gly Lys Ile Gly Lys Ser Glu Trp Phe Lys
+Cys Phe Pro Phe Val Ile Val Ala Ile Asn Ile Leu Ile Ala Val Ala
+Ser Asp Phe Glu Ser Ala Ile Arg Ala Trp Gly Thr Thr Trp Val Ser
+Thr Glu Gly Val Thr Leu Tyr Gly Gly Trp His Asn Val Phe Asn Gly
+Val Ala Gly Leu Ile Asn Ile Ala Cys Met Thr Gly Trp Phe Gly Ile
+Tyr Val Ser Lys Lys Lys Gln Asp Met Leu Trp Pro Asp Met Thr Trp
+Val Phe Ile Val Ala Tyr Asp Ile Trp Asn Phe Cys Tyr Thr Tyr Asn
+Cys Leu Pro Thr His Ser Trp Tyr Cys Gly Leu Ala Leu Leu Leu Ala
+Pro Thr Val Ala Asn Phe Phe Trp Asn Lys Gly Gly Trp Ile Gln Asn
+Arg Ala Asn Thr Leu Ala Ile Trp Cys Met Phe Ala Gln Val Phe Pro
+Met Phe Gln Asp Glu Ser Lys Phe Ala Val Gln Ser Val Asn Asn Pro
+Asn Val Asn Leu Thr Val Ser Ile Ile Ala Leu Val Ala Asn Val Leu
+Ala Leu Gly Tyr Ile Met Tyr Arg Ala Lys Lys Gln His Val Asn Pro
+Trp Leu Gln Glu Val Phe Lys Gly Thr Arg Asp Tyr Glu Gln Ala Ile
+Ala Arg Gln Glu Val Ala Ala

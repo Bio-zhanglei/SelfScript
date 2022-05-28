@@ -3,6 +3,8 @@
 #其功能是将蛋白序列或者其翻译后的核苷酸和蛋白质数据库进行比对，与blast相比功能单一，但也让它的使用格外的简单。
 
 #准备工作,安装diamond,下载源文件直接解压就能用(注意自己把他添加到环境变量中)
+#vi ~/.bashrc
+#添加一行export PATH="diamond安装的绝对路径:$PATH"
 wget http://github.com/bbuchfink/diamond/releases/download/v2.0.14/diamond-linux64.tar.gz
 #网络不好,直接去https://github.com/bbuchfink/diamond/releases下载linux版本
 tar -zxzf diamond-linux64.tar.gz

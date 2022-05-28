@@ -93,9 +93,10 @@ def UpperName(file,out):
                 FullName = FullName.replace(m,Name[m])
             else:
                 ID_fasta[faa[j]] = FullName   
-    
+    #在最后加一个空字符串,不然最后一行末尾没有换行符
+    #不然不利于linux，wc,cat命令的使用
     with open(out,'w') as f2:
-        f2.write('\n'.join(sum(ID_fasta.items(),())))
+        f2.write('\n'.join(sum(ID_fasta.items(),())[:]+('',)))
             
 
 if __name__ == "__main__":

@@ -54,7 +54,7 @@ blastn -query <查找的序列> \
 						从左到右各列的意义依次是:
 						query名、
 						subject名、
-						identity、
+						identity、文章推荐40%以上蛋白匹配率
 						比对长度、
 						错配数、
 						空位数、

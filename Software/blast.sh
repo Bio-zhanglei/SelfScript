@@ -18,12 +18,12 @@ makeblastdb -in <数据库> \
             -out <输出文件的前缀> \
             -parse_seqids
 			
-	    #以下是参数的解释
-	    数据库是一行id一行测序结果的文件
-	    数据库类型，与数据库一致，nucl或者prot
-	    out 输出结果文件的前缀
-		主要的三个文件时库索引(in),头索引(hr),序列索引(sq)，还有三个是si ,sd ,og
-	    parse_seqids 不添加最终生成的文件只有三个in,hr,sq文件,另外三个有什么用我也不太清楚
+			#以下是参数的解释
+			数据库是一行id一行测序结果的文件
+			数据库类型，与数据库一致，nucl或者prot
+			out 输出结果文件的前缀
+				主要的三个文件时库索引(in),头索引(hr),序列索引(sq)，还有三个是si ,sd ,og
+			parse_seqids 不添加最终生成的文件只有三个in,hr,sq文件,另外三个有什么用我也不太清楚
 			
 #第二步，选择合适blast软件
 	查找序列类型	数据库类型	对其数据类型	软件
@@ -33,14 +33,14 @@ makeblastdb -in <数据库> \
 	p	n	p	tblastn
 	n	n	p	tblastx
 	
-#第三步,运行blast,这里我需要n → n → n,所以选择blastn
+#第三步,运行blast
 blastn -query <查找的序列> \
        -db <数据库> \
        -out <结果文件> \
        -task <搜索算法> \
 	   -outfmt 7 \
-	   -evalue 1 \
-	   -num_thread <线程数>
+	   -evalue 10 \
+	   -num_threads <线程数>
 	   
 	   #以下是参数的解释
 	   要查找的序列,其数据格式也是一条id一条序列,与数据库格式一致
@@ -50,10 +50,24 @@ blastn -query <查找的序列> \
 										 -task blastn-short
 										 -word_size 4 \该参数只能指定4以上的值
 										 -evalue 1 \
-	   outfmt,输出格式,0-17,建议为7,因为感官最舒服
+	   outfmt,输出格式,0-17,建议为6或7,因为感官最舒服
+						从左到右各列的意义依次是:
+						query名、
+						subject名、
+						identity、
+						比对长度、
+						错配数、
+						空位数、
+						query 比对起始坐标、
+						query比对终止坐标、
+						subject比对起始坐标、
+						subject 比对终止坐标、
+						期望值、
+						比对得分
 	   evalue,E值阈值，高于这个E值的序列不输出到结果中，默认值为10，建议设到10-5以下
 	   num_thread,支持多线程
-	   
+#如果使用outfmt 6的输出格式,由于没有头文件,建议使用如下命令加上
+sed -i '1i\query id\tsubject id\t% identity\talignment length\tmismatches\tgap opens\tq. start\tq. end\ts. start\ts. end\tevalue\tbit score' <结果文件>
+   
 #更多使用方法见
 makeblastdb -help
-blastn -help

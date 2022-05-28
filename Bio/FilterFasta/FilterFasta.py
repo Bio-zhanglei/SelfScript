@@ -25,8 +25,9 @@ with open(file,'r') as f1:
 #一维转二维,原始数据每四行为一条read结果
 raw_fasta_group = list_of_groups(raw_fasta,number)
 
-#筛选大于250nt的read
+#筛选大于250nt的read,并添加空字符,有利于最后一行添加换行符
 filter_fasta = sum([i for i in raw_fasta_group if len(i[1]) >= length],[])
+filter_fasta.append('')
 
 #导出数据
 with open('Filter_{0}'.format(file),'w') as f1:

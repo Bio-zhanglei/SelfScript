@@ -28,10 +28,12 @@ number = 4
 with open(file,'r') as f1:
   merge_fasta = f1.read().splitlines()
 
-#提取出正反端测序数据
+#提取出正反端测序数据,在最后添加空,有利于最后一行也有换行符
 merge_fasta_group = list_of_groups(merge_data, number)
 F_fasta = sum(merge_fasta_group[::2],[])
+F_fasta.append('')
 R_fasta = sum(merge_fasta_group[1::2],[])
+R_fasta.append('')
 
 #导出正反端测序数据
 for i in ('F_fasta','R_fasta'):

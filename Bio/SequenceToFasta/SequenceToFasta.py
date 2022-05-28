@@ -18,8 +18,9 @@ if (ID_symbol != ''):
 #获取测序read
 sequence_read = sequence_data[1::4]
 
-#转为fasta文件格式
+#转为fasta文件格式,并在最后添加一个空元素,有利于最后一行也添加换行符
 fasta_format = sum(list(zip(sequence_id,sequence_read)),())
+fasta_format = fasta_format[:]+('',)
 
 #输出文件
 with open('fasta_{0}'.format(file),'w') as f1:
